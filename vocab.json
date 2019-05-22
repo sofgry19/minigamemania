@@ -1,0 +1,4164 @@
+{
+	"Items": [
+		{
+			"word": "aa lava",
+			"description": "thick type of lava that moves slowly"
+		},
+		{
+			"word": "abdomen",
+			"description": "the cavity containing an animal's major organs"
+		},
+		{
+			"word": "absorb",
+			"description": "soak up something"
+		},
+		{
+			"word": "acceleration",
+			"description": "a change in speed or direction"
+		},
+		{
+			"word": "acid rain",
+			"description": "a harmful type of rain that damages organisms and their environment"
+		},
+		{
+			"word": "acidic",
+			"description": "sour substances with a pH lower than 7"
+		},
+		{
+			"word": "active volcano",
+			"description": "a volcano that can erupt at any time"
+		},
+		{
+			"word": "adaptation",
+			"description": "change in order to survive"
+		},
+		{
+			"word": "adhesion",
+			"description": "how strongly molecules of different substances stick to each other"
+		},
+		{
+			"word": "adhesive",
+			"description": "a sticky substance"
+		},
+		{
+			"word": "advantage",
+			"description": "something that helps an organism survive"
+		},
+		{
+			"word": "aerobic",
+			"description": "with air, or living in air"
+		},
+		{
+			"word": "aerodynamic",
+			"description": "shaped so that air moves past smoothly"
+		},
+		{
+			"word": "aerodynamics",
+			"description": "the study of how different things move through air"
+		},
+		{
+			"word": "aftershock",
+			"description": "a small earthquake that follow a strong one"
+		},
+		{
+			"word": "aggression",
+			"description": "behavior that is meant to threaten or cause harm"
+		},
+		{
+			"word": "air pollution",
+			"description": "when something harmful or poisonous is added to the air"
+		},
+		{
+			"word": "air pressure",
+			"description": "the weight of air pressing on objects"
+		},
+		{
+			"word": "air resistance",
+			"description": "a force that slows down objects moving through air"
+		},
+		{
+			"word": "albedo",
+			"description": "how much light reflects off a surface"
+		},
+		{
+			"word": "algae",
+			"description": "leafless and stemless plant-like organisms that usually live in water"
+		},
+		{
+			"word": "allele",
+			"description": "one of two or more genes with specific inheritable characteristics"
+		},
+		{
+			"word": "alpine tundra",
+			"description": "flat cold land on top of some mountains where no trees can grow"
+		},
+		{
+			"word": "altitude",
+			"description": "the height that a place or object is above sea level"
+		},
+		{
+			"word": "alzheimers disease",
+			"description": "a disease in later life where brain tissue changes causing memory loss"
+		},
+		{
+			"word": "amphibians",
+			"description": "a class of animals that are born in water and become land animals"
+		},
+		{
+			"word": "amplifier",
+			"description": "a device that makes electrical signals or sounds louder or stronger"
+		},
+		{
+			"word": "amplify",
+			"description": "to make stronger or more powerful"
+		},
+		{
+			"word": "amplitude",
+			"description": "the distance between the lowest and highest point of a wave"
+		},
+		{
+			"word": "amplitude",
+			"description": "height of a sound wave"
+		},
+		{
+			"word": "anaerobic",
+			"description": "without air, or living without air"
+		},
+		{
+			"word": "analyze",
+			"description": "come to a conclusion about information gathered"
+		},
+		{
+			"word": "anaphase",
+			"description": "stage of mitosis where chromosomes are pulled to opposite sides of a cell"
+		},
+		{
+			"word": "anatomy",
+			"description": "the study of animal body structures"
+		},
+		{
+			"word": "anemometer",
+			"description": "a device that measures wind speed"
+		},
+		{
+			"word": "anemone",
+			"description": "brightly colored sea animals, with tube-like tentacles"
+		},
+		{
+			"word": "anemones",
+			"description": "sea animals, with tube-like tentacles, often brightly colored"
+		},
+		{
+			"word": "antenna",
+			"description": "sensory organ on some animals' heads"
+		},
+		{
+			"word": "anther",
+			"description": "flower part that creates pollen"
+		},
+		{
+			"word": "antibiotics",
+			"description": "a type of medicine that can kill most bacteria"
+		},
+		{
+			"word": "antibodies",
+			"description": "proteins that are part of our immune system"
+		},
+		{
+			"word": "anticline",
+			"description": "the top of a rocky hill or mountain where it begins to slope down"
+		},
+		{
+			"word": "antidote",
+			"description": "a medicine that treats venom poisoning"
+		},
+		{
+			"word": "aphid",
+			"description": "a type of insect that eats sap of plants"
+		},
+		{
+			"word": "apollo program",
+			"description": "NASA program that sent people to the moon"
+		},
+		{
+			"word": "arachnid",
+			"description": "animals like scorpions or spiders with no spine and two part bodies"
+		},
+		{
+			"word": "arachnologist",
+			"description": "a scientist who studies arachnids"
+		},
+		{
+			"word": "archaeology",
+			"description": "the study of the lives of past peoples and cultures"
+		},
+		{
+			"word": "arctic tundra",
+			"description": "large flat frozen land near the North Pole and other arctic regions"
+		},
+		{
+			"word": "arenal volcano",
+			"description": "an active volcano in Costa Rica"
+		},
+		{
+			"word": "arid",
+			"description": "very dry area or region"
+		},
+		{
+			"word": "arroyos",
+			"description": "a creek or stream that forms in a dry area from heavy rainfall"
+		},
+		{
+			"word": "arthropod",
+			"description": "an animal with an exoskeleton, jointed limbs, and segmented bodies"
+		},
+		{
+			"word": "artifacts",
+			"description": "objects created and used by humans in past cultures"
+		},
+		{
+			"word": "artificial",
+			"description": "made by humans, not by nature"
+		},
+		{
+			"word": "artificial organ",
+			"description": "a man-made body part such as a heart or stomach"
+		},
+		{
+			"word": "artificial satellite",
+			"description": "a man-made object that orbits another object in space"
+		},
+		{
+			"word": "artificial turf",
+			"description": "fake grass made of nylon and other materials"
+		},
+		{
+			"word": "assistive technology",
+			"description": "devices that help people with disabilities"
+		},
+		{
+			"word": "association neurons",
+			"description": "link sensory neurons to motor neurons"
+		},
+		{
+			"word": "asteroid",
+			"description": "a very large space rock"
+		},
+		{
+			"word": "asteroid belt",
+			"description": "the region of our solar system where most asteroids are be found"
+		},
+		{
+			"word": "asthenosphere",
+			"description": "a layer of the Earth just below the lithosphere that is made of partly melted rock"
+		},
+		{
+			"word": "astronaut",
+			"description": "a person trained to command, pilot, or be a crewmember on a spacecraft"
+		},
+		{
+			"word": "astronomer",
+			"description": "a scientist who studies outer space"
+		},
+		{
+			"word": "astronomical unit",
+			"description": "the measurement system used for distances in space"
+		},
+		{
+			"word": "astronomy",
+			"description": "the science that deals with the study of outer space"
+		},
+		{
+			"word": "atmosphere",
+			"description": "the mixture of gases that surrounds a planet"
+		},
+		{
+			"word": "atmospheric pressure",
+			"description": "pressure caused by the weight of gases in the atmosphere"
+		},
+		{
+			"word": "atoll",
+			"description": "ring-shaped coral reefs that circle around a lagoon"
+		},
+		{
+			"word": "atom",
+			"description": "the building block of all physical objects"
+		},
+		{
+			"word": "atomic number",
+			"description": "the number of protons in the nucleus of an atom"
+		},
+		{
+			"word": "atomic weight",
+			"description": "the heaviness of an atom measured by adding its protons and neutrons"
+		},
+		{
+			"word": "attract",
+			"description": "to draw closer or pull"
+		},
+		{
+			"word": "automobile",
+			"description": "a land vehicle with its own engine"
+		},
+		{
+			"word": "autonomic nervous system",
+			"description": "a system that controls our organs without our concious action"
+		},
+		{
+			"word": "autopsy",
+			"description": "medical procedure to determine how a person died"
+		},
+		{
+			"word": "avalanches",
+			"description": "when large amounts of snow, ice or other materials suddenly fall down a mountain"
+		},
+		{
+			"word": "axis",
+			"description": "a real or imaginary line that objects can rotate around"
+		},
+		{
+			"word": "bacteria",
+			"description": "one-celled organism that can be harmful or helpful"
+		},
+		{
+			"word": "badges",
+			"description": "animal body markings that show special characteristics"
+		},
+		{
+			"word": "bait",
+			"description": "anything a predator might use to trick its prey to come close"
+		},
+		{
+			"word": "balanced force",
+			"description": "equal forces on an object that cancel each other out"
+		},
+		{
+			"word": "ballistics",
+			"description": "the science of bullets and guns"
+		},
+		{
+			"word": "bar graph",
+			"description": "type of chart that makes it easy to compare items or see changes over time"
+		},
+		{
+			"word": "barnacle",
+			"description": "small marine crustaceans that stick to a small surface for their whole adult life"
+		},
+		{
+			"word": "barometer",
+			"description": "a device for measuring air pressure"
+		},
+		{
+			"word": "base of volcano",
+			"description": "the bottom of the volcanic mountains"
+		},
+		{
+			"word": "bec bose-einstein condensate",
+			"description": "a rare form of matter that only forms at very low temperatures"
+		},
+		{
+			"word": "behavioral adaptations",
+			"description": "something an organism does to survive better in its environment"
+		},
+		{
+			"word": "behavioral learning",
+			"description": "when previous experiences change the way an animal acts"
+		},
+		{
+			"word": "big bang theory",
+			"description": "a huge explosion in space billions of years ago that scientists think formed our universe"
+		},
+		{
+			"word": "biodiversity",
+			"description": "having many types of plants and animals in an environment"
+		},
+		{
+			"word": "bioengineering",
+			"description": "the study of living things that leads to devices that help people"
+		},
+		{
+			"word": "biological feature",
+			"description": "any characteristic that describes a living thing"
+		},
+		{
+			"word": "biologist",
+			"description": "a scientist who studies living things"
+		},
+		{
+			"word": "biology",
+			"description": "the study of living things"
+		},
+		{
+			"word": "bioluminescence",
+			"description": "light generated by an animal or plant"
+		},
+		{
+			"word": "biomass",
+			"description": "the total weight of all living creatures of one species"
+		},
+		{
+			"word": "biomes",
+			"description": "environments like deserts or rainforests with similar cimates that cover a large area"
+		},
+		{
+			"word": "biopsy",
+			"description": "medical test on cells and tissue to learn about a person's possible diseases"
+		},
+		{
+			"word": "biosphere",
+			"description": "the part of Earth that contains life"
+		},
+		{
+			"word": "birds of prey",
+			"description": "birds that hunt and kill other animals"
+		},
+		{
+			"word": "black dwarf",
+			"description": "a small star that is cold and does not emit light"
+		},
+		{
+			"word": "black hole",
+			"description": "an object in space that pulls in everything near it, including light"
+		},
+		{
+			"word": "blacksmith",
+			"description": "a person who makes objects using iron or steel"
+		},
+		{
+			"word": "blood transfusion",
+			"description": "blood that is given to a patient to replace lost blood"
+		},
+		{
+			"word": "blood vessels",
+			"description": "tubes in the body that carry blood"
+		},
+		{
+			"word": "boiling point",
+			"description": "the temperature at which a liquid completely changes to gas"
+		},
+		{
+			"word": "bola",
+			"description": "a hunting weapon with a cord and heavy balls"
+		},
+		{
+			"word": "botanist",
+			"description": "a scientist who studies plants"
+		},
+		{
+			"word": "box jellyfish",
+			"description": "a dangerous animal that uses its stingers to shoot poison into the victim's body"
+		},
+		{
+			"word": "brackish",
+			"description": "a mixture of fresh water and sea water"
+		},
+		{
+			"word": "breed",
+			"description": "a group of animals of the same species that all look a specific way"
+		},
+		{
+			"word": "brittle",
+			"description": "hard but fragile"
+		},
+		{
+			"word": "brown dwarf",
+			"description": "a failed star that is too small to start fusion"
+		},
+		{
+			"word": "buoy",
+			"description": "a floating object in the ocean or sea"
+		},
+		{
+			"word": "buoyancy",
+			"description": "the ability of an object to float"
+		},
+		{
+			"word": "burrow",
+			"description": "a hole that an animal makes and lives in for protection"
+		},
+		{
+			"word": "buttes",
+			"description": "a large hill with a small flat top and steep sides"
+		},
+		{
+			"word": "c-type asteroid",
+			"description": "dark carbon asteroids found in the outer part of the asteroid belt"
+		},
+		{
+			"word": "cactus",
+			"description": "a plant with spines that grows in the desert"
+		},
+		{
+			"word": "calcite",
+			"description": "a common mineral in crystal form that comes in many shapes"
+		},
+		{
+			"word": "calcium",
+			"description": "the most common mineral element in the body"
+		},
+		{
+			"word": "calculus",
+			"description": "math system created by Isaac Newton; math of change"
+		},
+		{
+			"word": "caldera",
+			"description": "a large basin formed by the collapse of a volcano"
+		},
+		{
+			"word": "calories",
+			"description": "a measurement system that shows the amount of energy in food"
+		},
+		{
+			"word": "camouflage",
+			"description": "the disguise an organism uses to blend in with its environment"
+		},
+		{
+			"word": "cancer",
+			"description": "a type of disease caused by cells growing unchecked"
+		},
+		{
+			"word": "canoe",
+			"description": "a small boat with curved sides and pointed ends"
+		},
+		{
+			"word": "canopy",
+			"description": "the highest level of the rainforest, made of the tops of tall trees"
+		},
+		{
+			"word": "canyon",
+			"description": "a deep valley"
+		},
+		{
+			"word": "capillary action",
+			"description": "when a liquid flows upwards against the force of gravity by adhesion"
+		},
+		{
+			"word": "capsule",
+			"description": "the part of a spacecraft that returns people or things safely to Earth"
+		},
+		{
+			"word": "carbohydrates",
+			"description": "a food group that supplies a major source of energy for our bodies"
+		},
+		{
+			"word": "carbon",
+			"description": "common element that makes up much of life forms"
+		},
+		{
+			"word": "carbon dioxide",
+			"description": "a clear gas formed when something with carbon is burned"
+		},
+		{
+			"word": "carnivore",
+			"description": "an animal that only or mostly eats meat"
+		},
+		{
+			"word": "carrion",
+			"description": "a dead animal that has begun to decay"
+		},
+		{
+			"word": "cartilage",
+			"description": "a type of firm, flexible tissue found in your outer ears"
+		},
+		{
+			"word": "cartographer",
+			"description": "a person who makes maps"
+		},
+		{
+			"word": "case study",
+			"description": "when scientists learn about a group by studying one example"
+		},
+		{
+			"word": "cast",
+			"description": "an object that is made by pouring a hot liquid into a mold"
+		},
+		{
+			"word": "catapult",
+			"description": "machine made to throw or hurl objects"
+		},
+		{
+			"word": "cattle ranching",
+			"description": "raising livestock"
+		},
+		{
+			"word": "cell",
+			"description": "basic unit that makes up life"
+		},
+		{
+			"word": "cell cycle",
+			"description": "the whole life of a cell"
+		},
+		{
+			"word": "cellular respiration",
+			"description": "a process that cells use to get energy, using oxygen"
+		},
+		{
+			"word": "central nervous system",
+			"description": "the part of the body system that has the brain and nervous system"
+		},
+		{
+			"word": "central processing unit",
+			"description": "the brain of the computer that processes data"
+		},
+		{
+			"word": "cerebellum",
+			"description": "the brain region that's involved in balance and movement"
+		},
+		{
+			"word": "cerebrum",
+			"description": "the brain region that controls thoughts, memory, and speech"
+		},
+		{
+			"word": "cgi",
+			"description": "pictures or videos made on computer for special movie effects"
+		},
+		{
+			"word": "characteristic",
+			"description": "a feature or quality belonging to something"
+		},
+		{
+			"word": "charged electrical",
+			"description": "an object with too many or too few electrons (electrical)"
+		},
+		{
+			"word": "charged particles",
+			"description": "tiny building blocks of matter that have positive or negative electrical charges."
+		},
+		{
+			"word": "chemical bond",
+			"description": "the attraction and joining of atoms"
+		},
+		{
+			"word": "chemical change",
+			"description": "permanent change that happens when different chemicals combine or come apart"
+		},
+		{
+			"word": "chemical property",
+			"description": "how a substance reacts with other materials"
+		},
+		{
+			"word": "chemical reaction",
+			"description": "permanent change from chemicals combining or separating"
+		},
+		{
+			"word": "chemical signaling",
+			"description": "the use of chemical scents to communicate"
+		},
+		{
+			"word": "chemical weathering",
+			"description": "changes to a rock due to chemical reactions"
+		},
+		{
+			"word": "chemicals",
+			"description": "anything made of elements"
+		},
+		{
+			"word": "chemist",
+			"description": "a scientist who studies the basic elements that things are made of"
+		},
+		{
+			"word": "chemistry",
+			"description": "the study of the basic elements that things are made of"
+		},
+		{
+			"word": "cholesterol",
+			"description": "a type of fat produced by your liver and also found in animal based foods"
+		},
+		{
+			"word": "chromatin",
+			"description": "long, stringy structures that hold DNA and proteins"
+		},
+		{
+			"word": "chromosomes",
+			"description": "information packets in all cells that holds DNA and proteins"
+		},
+		{
+			"word": "circuit",
+			"description": "a continuous path that can carry electrical current"
+		},
+		{
+			"word": "classify",
+			"description": "sort things with similar properties into groups"
+		},
+		{
+			"word": "climate",
+			"description": "the average weather in an area over a period of time"
+		},
+		{
+			"word": "climate change",
+			"description": "a long term change in average weather"
+		},
+		{
+			"word": "climatology",
+			"description": "the study of long term weather forces"
+		},
+		{
+			"word": "clotting",
+			"description": "a kind of gel formed by blood that plugs a wound from the inside"
+		},
+		{
+			"word": "coal",
+			"description": "a common fossil fuel made from ancient piles of dead plants or animals"
+		},
+		{
+			"word": "cocoon",
+			"description": "a type of soft covering made by an animal for protection"
+		},
+		{
+			"word": "cohesion",
+			"description": "the tendency for molecules and atoms to stick together without reacting"
+		},
+		{
+			"word": "cold glacier",
+			"description": "a glacier with no melted water on the bottom"
+		},
+		{
+			"word": "cold war",
+			"description": "a competition between the U.S. and Soviet Union where no weapons were fired"
+		},
+		{
+			"word": "cold-blooded",
+			"description": "having a body temperature that changes with the environment"
+		},
+		{
+			"word": "collide",
+			"description": "to crash together or hit something"
+		},
+		{
+			"word": "colony collapse disorder",
+			"description": "situation where worker bees leave the beehive permanently"
+		},
+		{
+			"word": "combustion",
+			"description": "a chemical reaction that causes fire"
+		},
+		{
+			"word": "comet",
+			"description": "a space object that orbits the Sun along a stretched-out path"
+		},
+		{
+			"word": "command module",
+			"description": "area of a spacecraft where astronauts spend most of their time"
+		},
+		{
+			"word": "commensalism",
+			"description": "a relationship between two organisms where one is helped and the other is not helped or hurt."
+		},
+		{
+			"word": "compass",
+			"description": "a device that uses Earth's magnetic field to find direction"
+		},
+		{
+			"word": "compete",
+			"description": "when organisms fight each other to get certain things"
+		},
+		{
+			"word": "component",
+			"description": "a part of something"
+		},
+		{
+			"word": "composition",
+			"description": "how parts are put together"
+		},
+		{
+			"word": "compound",
+			"description": "a substance that is made when two or more types of elements chemically combine"
+		},
+		{
+			"word": "compound eye",
+			"description": "an eye made up of many tiny ones that work separately"
+		},
+		{
+			"word": "compound microscope",
+			"description": "a microscope with lenses at both ends of a tube"
+		},
+		{
+			"word": "compress",
+			"description": "to force matter into a smaller volume"
+		},
+		{
+			"word": "computer code",
+			"description": "a list of commands that tell computers what to do"
+		},
+		{
+			"word": "computer model",
+			"description": "a tool for making predictions about real events using computer data"
+		},
+		{
+			"word": "computer science",
+			"description": "the study of how to program computers to do special things"
+		},
+		{
+			"word": "concentrated",
+			"description": "more of a substance than normal in a mixture"
+		},
+		{
+			"word": "conclusion",
+			"description": "a decision based on evidence"
+		},
+		{
+			"word": "condensation",
+			"description": "when gas changes into a liquid because it touches a cooler surface"
+		},
+		{
+			"word": "conduction",
+			"description": "the way heat moves through substances in close contact"
+		},
+		{
+			"word": "conservation",
+			"description": "the act of protecting species and their habitats"
+		},
+		{
+			"word": "conservation herds",
+			"description": "a group of protected animals"
+		},
+		{
+			"word": "constellations",
+			"description": "a star pattern in the sky"
+		},
+		{
+			"word": "contact force",
+			"description": "when two things touch and exert a direct force on each other"
+		},
+		{
+			"word": "continental drift",
+			"description": "the way continents slowly move"
+		},
+		{
+			"word": "continental plate",
+			"description": "giant slabs of rock that the outermost layer of Earth is broken into"
+		},
+		{
+			"word": "continental shelf",
+			"description": "outer edges of continental land that is covered by water"
+		},
+		{
+			"word": "continents",
+			"description": "large masses of land on Earth"
+		},
+		{
+			"word": "control group",
+			"description": "the group in an experiment that does what the members normally do"
+		},
+		{
+			"word": "convection",
+			"description": "the way heated molecules move from one place to another"
+		},
+		{
+			"word": "convection current",
+			"description": "how heat is transferred when hot fluids rise, cool, and then sink down again"
+		},
+		{
+			"word": "converge",
+			"description": "when two or more things come closer and closer together"
+		},
+		{
+			"word": "convergent boundary",
+			"description": "a place where the Earth's plates crash into each other"
+		},
+		{
+			"word": "coral bleaching",
+			"description": "how corals lose their colors when the algae inside of them die"
+		},
+		{
+			"word": "coral polyps",
+			"description": "individual animals that make up a coral reef"
+		},
+		{
+			"word": "coral reef",
+			"description": "beautiful underwater ecosystems"
+		},
+		{
+			"word": "core",
+			"description": "the hot center of the Earth"
+		},
+		{
+			"word": "corn belt",
+			"description": "an area in midwestern U.S. where corn is a major crop"
+		},
+		{
+			"word": "corona",
+			"description": "a ring of extremely hot matter that surrounds the Sun or any other star"
+		},
+		{
+			"word": "corpse",
+			"description": "a dead body of an animal"
+		},
+		{
+			"word": "correlation",
+			"description": "a relationship between two variables, or things you can measure"
+		},
+		{
+			"word": "corrode",
+			"description": "when a metal is damanged or destroyed by a chemical reaction with the environment"
+		},
+		{
+			"word": "courting ritual",
+			"description": "special behavior of male animals to attract females"
+		},
+		{
+			"word": "crater",
+			"description": "an opening at the top of a volcano"
+		},
+		{
+			"word": "crescents",
+			"description": "a shape that looks like a piece of a circle partially covered by another circle"
+		},
+		{
+			"word": "crevice",
+			"description": "a narrow but deep crack in the Earth"
+		},
+		{
+			"word": "cross-pollinated",
+			"description": "when a plant uses the pollen from another plant to breed"
+		},
+		{
+			"word": "crossbred",
+			"description": "when an animal mates with another breed or species"
+		},
+		{
+			"word": "crust",
+			"description": "the outer layer or surface of the Earth"
+		},
+		{
+			"word": "crustacean",
+			"description": "a group of animals with shells that live in underwater habitats"
+		},
+		{
+			"word": "crystals",
+			"description": "a solid mineral substance with surfaces that are symmetrical"
+		},
+		{
+			"word": "ct scan",
+			"description": "detailed X-rays taken from many different angles"
+		},
+		{
+			"word": "cyclical",
+			"description": "something that happens again and again in the same way"
+		},
+		{
+			"word": "cytokinesis",
+			"description": "final stage of cell division where the cell splits into two"
+		},
+		{
+			"word": "dams",
+			"description": "a barrier or wall built to contain or prevent the flow of water"
+		},
+		{
+			"word": "data",
+			"description": "information or facts"
+		},
+		{
+			"word": "daughter cells",
+			"description": "two identical cells resulting from the division of one cell"
+		},
+		{
+			"word": "debris",
+			"description": "litter in the ocean or sea"
+		},
+		{
+			"word": "decay",
+			"description": "to rot or wear away"
+		},
+		{
+			"word": "decibel",
+			"description": "a numerical unit for measuring the loudness of a sound"
+		},
+		{
+			"word": "decompose",
+			"description": "the decaying of a dead body"
+		},
+		{
+			"word": "deep-sea trench",
+			"description": "long deep cracks in the ocean floor"
+		},
+		{
+			"word": "defecation",
+			"description": "the act of passing solid waste through pooping"
+		},
+		{
+			"word": "deflect",
+			"description": "to make something change direction"
+		},
+		{
+			"word": "deforestation",
+			"description": "the cutting down of many or all of the trees in a forest"
+		},
+		{
+			"word": "deforms",
+			"description": "when an object loses its original shape"
+		},
+		{
+			"word": "dehydration",
+			"description": "to not have enough water, or to remove water"
+		},
+		{
+			"word": "density",
+			"description": "how tightly or closely matter is packed together"
+		},
+		{
+			"word": "depression",
+			"description": "a deep or sunken area"
+		},
+		{
+			"word": "desolate",
+			"description": "when an area has little to no life"
+		},
+		{
+			"word": "detritivore",
+			"description": "a life form that eats dead plants or animals"
+		},
+		{
+			"word": "diaphragm",
+			"description": "the sheet of muscle inside your chest that allows you to breathe"
+		},
+		{
+			"word": "digestion",
+			"description": "how the body breaks down food"
+		},
+		{
+			"word": "dinosaur",
+			"description": "an extinct type of reptile"
+		},
+		{
+			"word": "diploid",
+			"description": "a cell with two sets of chromosomes"
+		},
+		{
+			"word": "disability",
+			"description": "something that a person can't do that most people can do"
+		},
+		{
+			"word": "disaster",
+			"description": "an event that is very destructive or causes a lot of pain"
+		},
+		{
+			"word": "dissolve",
+			"description": "a process where one material seems to disappear into another"
+		},
+		{
+			"word": "distance",
+			"description": "the space between two objects"
+		},
+		{
+			"word": "diurnal",
+			"description": "to be active during the day and sleep at night"
+		},
+		{
+			"word": "diverge",
+			"description": "to move apart"
+		},
+		{
+			"word": "divergent boundary",
+			"description": "a place where the Earth's plates move away from each other"
+		},
+		{
+			"word": "diversity",
+			"description": "having variety, not all alike"
+		},
+		{
+			"word": "diving bell",
+			"description": "early device with a trapped air bubble used for breathing underwater"
+		},
+		{
+			"word": "division of labor",
+			"description": "sharing work and responsibilities"
+		},
+		{
+			"word": "DNA",
+			"description": "a molecule in your body that tells cells what to do"
+		},
+		{
+			"word": "dome mountain",
+			"description": "a mountain formed when magma cools down and hardens below the Earth's surface"
+		},
+		{
+			"word": "domestication",
+			"description": "to train an animal to live around humans"
+		},
+		{
+			"word": "dominant",
+			"description": "having the ability to cover up a recessive gene"
+		},
+		{
+			"word": "dominant",
+			"description": "an allele that can cover up other alleles"
+		},
+		{
+			"word": "doppler radar",
+			"description": "a radio based tool to figure out how fast something is moving away from or towards you"
+		},
+		{
+			"word": "dormant volcano",
+			"description": "a volcano that is temporarily inactive"
+		},
+		{
+			"word": "double helix",
+			"description": "shape that looks like two coiled wires wrapped around each other"
+		},
+		{
+			"word": "drag",
+			"description": "a force that resists or tries to slow movement in a gas or liquid"
+		},
+		{
+			"word": "dragline",
+			"description": "a strand of silk used by a spider to build webs or hang from surfaces"
+		},
+		{
+			"word": "drone",
+			"description": "an aircraft without a pilot that's guided by remote control"
+		},
+		{
+			"word": "drone bees",
+			"description": "male bee of the hive"
+		},
+		{
+			"word": "drought",
+			"description": "a long period of dry weather"
+		},
+		{
+			"word": "dunes",
+			"description": "a hill of sand created by wind"
+		},
+		{
+			"word": "dwarf planet",
+			"description": "a space body that orbits the Sun on its own, but is smaller than a planet"
+		},
+		{
+			"word": "dyke",
+			"description": "a slope or wall that regulates water levels"
+		},
+		{
+			"word": "dyslexia",
+			"description": "a disability that causes a person to have difficulty reading"
+		},
+		{
+			"word": "eardrum",
+			"description": "part of the ear that sends sound waves to the middle ear"
+		},
+		{
+			"word": "earthquakes",
+			"description": "a violent shaking of the ground"
+		},
+		{
+			"word": "echo",
+			"description": "a sound that is bounced back"
+		},
+		{
+			"word": "echo navigation",
+			"description": "using the time it takes for echos and sound to bounce back to 'see' the world"
+		},
+		{
+			"word": "eclipse",
+			"description": "the shadow that one space object casts on another"
+		},
+		{
+			"word": "ecologist",
+			"description": "a scientist who studies how living and nonliving things interact in a specific area"
+		},
+		{
+			"word": "ecology",
+			"description": "the study of how living and noniving things interact in a specific area"
+		},
+		{
+			"word": "ecosystem",
+			"description": "an area where animals and plants depend on each other to live"
+		},
+		{
+			"word": "ectotherm",
+			"description": "n animal that controls its temperature by moving into warm or cold places"
+		},
+		{
+			"word": "eectrocommunication",
+			"description": "how some animals \"talk\" using electricity"
+		},
+		{
+			"word": "eeg",
+			"description": "electroencephalograph or tool used to read the brain's electrical activity"
+		},
+		{
+			"word": "el niño",
+			"description": "a weather changing event that starts when unusually warm water moves from near the equator"
+		},
+		{
+			"word": "elasticity",
+			"description": "the amount things can stretch or bend without breaking"
+		},
+		{
+			"word": "electric current",
+			"description": "a continuous flow of electrons"
+		},
+		{
+			"word": "electric impulses",
+			"description": "a small electric current that nerve cells use to send messages to other cells"
+		},
+		{
+			"word": "electricity",
+			"description": "a continuous flow of electrons"
+		},
+		{
+			"word": "electrocardiograph",
+			"description": "a machine that can show the heart's electrical activity"
+		},
+		{
+			"word": "electrocommunication",
+			"description": "how some animals \"talk\" using electric currents"
+		},
+		{
+			"word": "electrode",
+			"description": "tiny metal object that picks up electric signals from brain or muscles"
+		},
+		{
+			"word": "electromagnets",
+			"description": "a magnet that is made by the flow of electricity"
+		},
+		{
+			"word": "electronics",
+			"description": "devices that use electric currents for control"
+		},
+		{
+			"word": "electrons",
+			"description": "tiny particles with a negative charge that help make up atoms"
+		},
+		{
+			"word": "element",
+			"description": "a pure substance made of only one type of atom"
+		},
+		{
+			"word": "ellipse",
+			"description": "an oval shape like a flattened circle"
+		},
+		{
+			"word": "elliptical galaxy",
+			"description": "a galaxy shaped like an egg"
+		},
+		{
+			"word": "endangered",
+			"description": "to be at risk of becoming extinct"
+		},
+		{
+			"word": "endorphins",
+			"description": "hormones that make you feel good"
+		},
+		{
+			"word": "energy",
+			"description": "the ability to do work"
+		},
+		{
+			"word": "energy efficient",
+			"description": "using as little energy as possible to accomplish a result"
+		},
+		{
+			"word": "engineers",
+			"description": "a scientist who designs and builds new things"
+		},
+		{
+			"word": "environment",
+			"description": "everything that makes up an organism's surroundings"
+		},
+		{
+			"word": "enzyme",
+			"description": "a protein your body makes to help you function"
+		},
+		{
+			"word": "epicenter",
+			"description": "the spot on the surface of Earth right above where the earthquake started"
+		},
+		{
+			"word": "epidemic",
+			"description": "a disease that makes many people sick at the same time"
+		},
+		{
+			"word": "epiglottis",
+			"description": "flap of tissue at the base of your tongue"
+		},
+		{
+			"word": "equator",
+			"description": "an imaginary line that circles the Earth halfway between the north and south poles"
+		},
+		{
+			"word": "equinox",
+			"description": "when night and day are the same length (twice a year)"
+		},
+		{
+			"word": "erode",
+			"description": "destroy something slowly"
+		},
+		{
+			"word": "erupt",
+			"description": "to burst or break out in a sudden and violent manner"
+		},
+		{
+			"word": "eukaryotic",
+			"description": "a cell with a nucleus that surrounds and protects its DNA"
+		},
+		{
+			"word": "evacuate",
+			"description": "to remove persons, animals, or things from a dangerous place"
+		},
+		{
+			"word": "evaporate",
+			"description": "to change from a liquid state into gas"
+		},
+		{
+			"word": "evidence",
+			"description": "scientific proof"
+		},
+		{
+			"word": "evolution",
+			"description": "how animals and plants change over many years to survive"
+		},
+		{
+			"word": "excretory system",
+			"description": "group of organs that rid the body of the waste it produces"
+		},
+		{
+			"word": "exhaust emissions",
+			"description": "harmful gases that are produced and puffed out by cars and engines"
+		},
+		{
+			"word": "exoplanet",
+			"description": "a planet that travels around a star other than our sun"
+		},
+		{
+			"word": "exoskeleton",
+			"description": "hard outer covering that protects some animals"
+		},
+		{
+			"word": "expel",
+			"description": "to drive or throw something out by force"
+		},
+		{
+			"word": "experiment",
+			"description": "a test to see how or why something happens"
+		},
+		{
+			"word": "experimental group",
+			"description": "the group in an experiment that is doing what you are testing for"
+		},
+		{
+			"word": "explosion",
+			"description": "when a lot of heat energy is released very quickly"
+		},
+		{
+			"word": "exposed",
+			"description": "being uncovered and open to danger"
+		},
+		{
+			"word": "extinct",
+			"description": "no longer existing"
+		},
+		{
+			"word": "eyepiece",
+			"description": "the part of a microscope that you look through"
+		},
+		{
+			"word": "eyewall",
+			"description": "the area of a hurricane that is right outside the center, or eye"
+		},
+		{
+			"word": "fahrenheit",
+			"description": "a scale to measure temperature used in the U.S."
+		},
+		{
+			"word": "fallacy",
+			"description": "a false statement, typically resulting from an error in reasoning"
+		},
+		{
+			"word": "falsify",
+			"description": "prove false by observation or experiment"
+		},
+		{
+			"word": "fang",
+			"description": "the sharp teeth used by predators to catch and kill prey"
+		},
+		{
+			"word": "fat",
+			"description": "an edible part of a living thing that has a lot of energy"
+		},
+		{
+			"word": "fault",
+			"description": "a place where the Earth's plates meet and sometimes move"
+		},
+		{
+			"word": "fault block mountain",
+			"description": "a  mountain formed when rocks become tilted, twisted, and pushed on top of each other"
+		},
+		{
+			"word": "fault zones",
+			"description": "a collection of cracks in the large plates of rock below the ground"
+		},
+		{
+			"word": "felled",
+			"description": "to knock down or cut down something"
+		},
+		{
+			"word": "fertile",
+			"description": "fruitful, rich, or lush"
+		},
+		{
+			"word": "fertilization",
+			"description": "process where an egg takes in pollen to make a seed"
+		},
+		{
+			"word": "fiber optic cables",
+			"description": "glass fibers that carry light signals for communication"
+		},
+		{
+			"word": "fiberglass",
+			"description": "material made from mixing glass fibers into plastic that becomes hard"
+		},
+		{
+			"word": "field",
+			"description": "where something naturally happens or a scientist's particular area of work"
+		},
+		{
+			"word": "fingerprint",
+			"description": "the patterns of ridges on the tips of your fingers"
+		},
+		{
+			"word": "finite",
+			"description": "limited; able to be used up"
+		},
+		{
+			"word": "fissure",
+			"description": "an open visible crack or gap on the Earth's surface"
+		},
+		{
+			"word": "flagella",
+			"description": "whip-like tails of cells, bacteria, and other microorganisms"
+		},
+		{
+			"word": "flammable",
+			"description": "ability to be set on fire"
+		},
+		{
+			"word": "flash flood",
+			"description": "a sudden storm with heavy rain that causes overflow of water"
+		},
+		{
+			"word": "flood",
+			"description": "a sudden overflow of water caused by a storm"
+		},
+		{
+			"word": "focus wheel",
+			"description": "the part of a microscope that raises and lowers the stage"
+		},
+		{
+			"word": "fold mountain",
+			"description": "a mountain formed from the head-on crash of two plates"
+		},
+		{
+			"word": "food chain",
+			"description": "sequence of who eats whom in an ecosystem"
+		},
+		{
+			"word": "food web",
+			"description": "a chart of the specific things different organisms eat in a habitat"
+		},
+		{
+			"word": "foraging",
+			"description": "animal behavior of searching for food"
+		},
+		{
+			"word": "forbs",
+			"description": "flowering plants that grow on prairies"
+		},
+		{
+			"word": "force",
+			"description": "the power or energy that causes motion or change"
+		},
+		{
+			"word": "forecasts",
+			"description": "a prediction about future events."
+		},
+		{
+			"word": "forensics",
+			"description": "solving crimes using science"
+		},
+		{
+			"word": "formula",
+			"description": "symbols that show the number and kinds of atoms in a chemical compound"
+		},
+		{
+			"word": "fossil",
+			"description": "the hard remains of dead animals and plants"
+		},
+		{
+			"word": "free fall",
+			"description": "when an object is moving down only because of gravity"
+		},
+		{
+			"word": "freezing point",
+			"description": "the temperature at which a liquid becomes solid"
+		},
+		{
+			"word": "frequency",
+			"description": "the number of sound and light waves that are produced each second"
+		},
+		{
+			"word": "frequency",
+			"description": "the number of sound waves that happen each second"
+		},
+		{
+			"word": "friction",
+			"description": "the force that stops materials from sliding freely against each other"
+		},
+		{
+			"word": "fronts",
+			"description": "an imaginary line between air masses of different temperatures"
+		},
+		{
+			"word": "fungi",
+			"description": "a type of organism that is not a plant, animal, or bacteria"
+		},
+		{
+			"word": "galaxy",
+			"description": "a large group of stars and their planets"
+		},
+		{
+			"word": "gametes",
+			"description": "a reproductive or sex cell"
+		},
+		{
+			"word": "gas",
+			"description": "a form of matter with no fixed shape or volume"
+		},
+		{
+			"word": "gas giant",
+			"description": "the four planets that are furthest from the Sun in our Solar System"
+		},
+		{
+			"word": "gasoline",
+			"description": "a liquid fuel that is used to power many modern automobiles"
+		},
+		{
+			"word": "gemini missions",
+			"description": "NASA missions conducted to prepare the agency to send people to the moon"
+		},
+		{
+			"word": "generation",
+			"description": "a group of living things that are about the same age and live at the same time"
+		},
+		{
+			"word": "generator",
+			"description": "a machine used to create electricity"
+		},
+		{
+			"word": "genes",
+			"description": "instructions inside living cells that tell the cells how to behave"
+		},
+		{
+			"word": "genetic code",
+			"description": "the order that nucleotides are arranged in DNA"
+		},
+		{
+			"word": "genetics",
+			"description": "the study of genes and how they are expressed, or shown, through generations"
+		},
+		{
+			"word": "genome",
+			"description": "all the instructions in human genes"
+		},
+		{
+			"word": "genotype",
+			"description": "the set of genes that an organism has"
+		},
+		{
+			"word": "geocentric orbit",
+			"description": "the idea that the Earth is the center of the Universe"
+		},
+		{
+			"word": "geocentric theory",
+			"description": "the theory that states Earth is the center of the universe"
+		},
+		{
+			"word": "geologist",
+			"description": "a scientist who studies the earth, soil, rocks, and minerals"
+		},
+		{
+			"word": "geology",
+			"description": "the study of the earth, soil, rocks, and minerals"
+		},
+		{
+			"word": "geophysics",
+			"description": "the study of movement inside and on the Earth"
+		},
+		{
+			"word": "geostationary orbit",
+			"description": "the orbit of a satellite that stays over the same spot on Earth's equator at all times"
+		},
+		{
+			"word": "geotagging",
+			"description": "when a camera adds information about where a photo was taken."
+		},
+		{
+			"word": "geothermal energy",
+			"description": "energy made by heat inside the Earth's crust"
+		},
+		{
+			"word": "geothermal heating",
+			"description": "heat that comes from deep within the Earth"
+		},
+		{
+			"word": "germ theory",
+			"description": "theory that states diseases are caused by microorganisms called germs"
+		},
+		{
+			"word": "germs",
+			"description": "tiny organisms that can cause diseases"
+		},
+		{
+			"word": "geyser",
+			"description": "a spot that shoots hot water and steam out from underground"
+		},
+		{
+			"word": "glands",
+			"description": "organs that release chemicals to control body functions"
+		},
+		{
+			"word": "glide",
+			"description": "to move through the air using lift"
+		},
+		{
+			"word": "global warming",
+			"description": "the theory that Earth's temperature is gradually becoming hotter"
+		},
+		{
+			"word": "glucose",
+			"description": "a simple sugar"
+		},
+		{
+			"word": "gluten",
+			"description": "a stretchy protein in wheat products"
+		},
+		{
+			"word": "golden poison dart frog",
+			"description": "small, deadly, brighly colored tree frogs"
+		},
+		{
+			"word": "golden silk orb-weaver spider",
+			"description": "a spider that makes webs that are hard for other insects to see"
+		},
+		{
+			"word": "Goldilocks Zone",
+			"description": "the area around a star that is the right temperature for life"
+		},
+		{
+			"word": "granite",
+			"description": "a strong kind igneous rock used to make countertops"
+		},
+		{
+			"word": "grassland",
+			"description": "large, flat plains covered with grass"
+		},
+		{
+			"word": "gravity",
+			"description": "the force that attracts two objects to each other"
+		},
+		{
+			"word": "greenhouse gas",
+			"description": "a gas that traps the heat of the sun in the Earths atmosphere"
+		},
+		{
+			"word": "grooming",
+			"description": "when an animal cleans itself or others"
+		},
+		{
+			"word": "gullies",
+			"description": "a ditch or small valley formed by running water"
+		},
+		{
+			"word": "habitat",
+			"description": "the place where a plant or animal normally lives"
+		},
+		{
+			"word": "habits of mind",
+			"description": "the way we think, act, and solve problems"
+		},
+		{
+			"word": "hail",
+			"description": "ice balls that come from the sky"
+		},
+		{
+			"word": "halley's comet",
+			"description": "a well known comet that comes close to Earth every 75 to 76 years"
+		},
+		{
+			"word": "haploid",
+			"description": "a cell with a single set of chromosomes"
+		},
+		{
+			"word": "hardware",
+			"description": "the part of a computer we can touch"
+		},
+		{
+			"word": "harmony",
+			"description": "when two or more pitches play at once to produce a pleasing sound"
+		},
+		{
+			"word": "heavy metal",
+			"description": "metals that are often dense or poisonous"
+		},
+		{
+			"word": "heliocentric orbit",
+			"description": "when an object circles, or orbits, the Sun"
+		},
+		{
+			"word": "heliocentric theory",
+			"description": "theory that states that the planets in our solar system orbit the Sun."
+		},
+		{
+			"word": "helium",
+			"description": "a simple light element that is usually a gas"
+		},
+		{
+			"word": "hemisphere",
+			"description": "half of a sphere"
+		},
+		{
+			"word": "hemoglobin",
+			"description": "a protein found in red blood cells that move oxygen"
+		},
+		{
+			"word": "herbivores",
+			"description": "animals that only eat plants"
+		},
+		{
+			"word": "herd",
+			"description": "a large group of animals that stay together"
+		},
+		{
+			"word": "heredity",
+			"description": "the passing of traits from parents to children"
+		},
+		{
+			"word": "heterogeneous mixture",
+			"description": "two or more substances put together with clearly seperate  parts"
+		},
+		{
+			"word": "hibernate",
+			"description": "when an animal slows its body functions for a long time to save energy"
+		},
+		{
+			"word": "hippocratic oath",
+			"description": "a promise doctors make to never harm patients on purpose"
+		},
+		{
+			"word": "hiv",
+			"description": "a virus that attacks people's immune systems"
+		},
+		{
+			"word": "homogeneous mixture",
+			"description": "two or more substances put together that don't have clearly seperate parts"
+		},
+		{
+			"word": "homologous",
+			"description": "very similar but not identical"
+		},
+		{
+			"word": "honeycomb",
+			"description": "part of a beehive built to keep bee larvae, honey, and pollen safe"
+		},
+		{
+			"word": "host",
+			"description": "an organism that harbors, or is home to, other organisms"
+		},
+		{
+			"word": "hot spot",
+			"description": "a hot area deep in the Earth responsible for some volcanoes"
+		},
+		{
+			"word": "hot spring",
+			"description": "natural water gushes heated by hot rocks undergound"
+		},
+		{
+			"word": "humboldt current",
+			"description": "a strong ocean current that moves water from Antarctica to the equator"
+		},
+		{
+			"word": "humid",
+			"description": "weather that has warm, moist air"
+		},
+		{
+			"word": "humid subtropical climate",
+			"description": "places with hot wet summers and mild winters"
+		},
+		{
+			"word": "hurricane",
+			"description": "a huge, destructive storm"
+		},
+		{
+			"word": "hydrophobic",
+			"description": "avoiding or repelling water"
+		},
+		{
+			"word": "hydrosphere",
+			"description": "all of the water on a planet"
+		},
+		{
+			"word": "hydrothermal vents",
+			"description": "openings in Earth's surface where hot material from inside comes out"
+		},
+		{
+			"word": "hypothesis",
+			"description": "a possible explanation for something seen or observed"
+		},
+		{
+			"word": "igneous rock",
+			"description": "rock that forms when hot molten rock called magma cools"
+		},
+		{
+			"word": "immune system",
+			"description": "a network of many types of germ-fighting cells that protect your body"
+		},
+		{
+			"word": "immunology",
+			"description": "the study of the body system that fights disease"
+		},
+		{
+			"word": "incisions",
+			"description": "a cut in skin made during surgery"
+		},
+		{
+			"word": "incubate",
+			"description": "to keep eggs warm so they can hatch"
+		},
+		{
+			"word": "independent and dependent variables",
+			"description": "the things you have control over in an experiment"
+		},
+		{
+			"word": "indigenous",
+			"description": "local to an area or place"
+		},
+		{
+			"word": "inertia",
+			"description": "an object's resistance to change in motion"
+		},
+		{
+			"word": "infection",
+			"description": "when a microorganism invades a body and reproduces"
+		},
+		{
+			"word": "infrasound",
+			"description": "sound that is lower pitched than humans can hear"
+		},
+		{
+			"word": "inherit",
+			"description": "receive something that is passed on from someone else"
+		},
+		{
+			"word": "inner ear",
+			"description": "where the cochlea translates the vibrations into brain signals"
+		},
+		{
+			"word": "inquiry",
+			"description": "an investigation that follows a series of steps"
+		},
+		{
+			"word": "insect",
+			"description": "six-legged animals with a head, thorax, and abdomen"
+		},
+		{
+			"word": "instinct",
+			"description": "something an animal knows to do naturally, or since birth"
+		},
+		{
+			"word": "interaction",
+			"description": "when objects have an effect on each other"
+		},
+		{
+			"word": "international space station",
+			"description": "a large artificial satellite where scientists conduct experiments"
+		},
+		{
+			"word": "interphase",
+			"description": "stage of life where a cell spends most of its life"
+		},
+		{
+			"word": "intertidal zone",
+			"description": "area covered by water at high tide and dry at low tide"
+		},
+		{
+			"word": "intravenous",
+			"description": "within a vein (usually having to do with a shot or injection)"
+		},
+		{
+			"word": "invasive species",
+			"description": "plants or animals that enter a new area and harm it"
+		},
+		{
+			"word": "invention",
+			"description": "a new device that someone makes that does a specific job"
+		},
+		{
+			"word": "invertebrate",
+			"description": "an animal that doesn't have a backbone"
+		},
+		{
+			"word": "involuntary",
+			"description": "action your body does without you having to think about it"
+		},
+		{
+			"word": "irregular galaxy",
+			"description": "a galaxy with no defined shape"
+		},
+		{
+			"word": "joints bone",
+			"description": "a structure between your bones that allows motion"
+		},
+		{
+			"word": "joints rock",
+			"description": "a crack in a rock that splits it in two"
+		},
+		{
+			"word": "keyboard",
+			"description": "device people use to type information into a computer"
+		},
+		{
+			"word": "kilauea volcano",
+			"description": "a very active volcano in Hawaii"
+		},
+		{
+			"word": "kinetic energy",
+			"description": "energy of motion"
+		},
+		{
+			"word": "knead",
+			"description": "to stretch, fold, squeeze, and press dough with water"
+		},
+		{
+			"word": "komodo dragon",
+			"description": "the world's largest and most deadly lizard"
+		},
+		{
+			"word": "kuiper belt",
+			"description": "a region of the Solar System beyond the orbit of Neptune"
+		},
+		{
+			"word": "laboratory",
+			"description": "a work place where scientific research and experiments are done"
+		},
+		{
+			"word": "lahar",
+			"description": "a thick mudflow made of water, ash, mud, and rock"
+		},
+		{
+			"word": "laminar",
+			"description": "when gas or liquid flows smoothly around an object"
+		},
+		{
+			"word": "land pollution",
+			"description": "something destructive that is added to the Earth's surface"
+		},
+		{
+			"word": "landfill",
+			"description": "area that is filled with trash"
+		},
+		{
+			"word": "landform",
+			"description": "any natural formation of rock and dirt"
+		},
+		{
+			"word": "landslide",
+			"description": "when land and rocks slide downhill"
+		},
+		{
+			"word": "laparoscope",
+			"description": "a long, thin tool with a camera used for surgery"
+		},
+		{
+			"word": "large intestine",
+			"description": "wide tube in your body that takes water out of food, then spits out the waste"
+		},
+		{
+			"word": "larva",
+			"description": "the early development stage of some organisms"
+		},
+		{
+			"word": "larynx",
+			"description": "scientific name for voicebox"
+		},
+		{
+			"word": "latitude",
+			"description": "imaginary lines that measure the how far north or south a place is from the equator"
+		},
+		{
+			"word": "lava",
+			"description": "molten rock spewed out by a volcano"
+		},
+		{
+			"word": "lava tube",
+			"description": "a tube created by flowing lava"
+		},
+		{
+			"word": "law",
+			"description": "a scientific statement of how things work"
+		},
+		{
+			"word": "laws of motion",
+			"description": "three laws describing the motion of an object due to forces"
+		},
+		{
+			"word": "leachate",
+			"description": "water mixed with rotting garbage"
+		},
+		{
+			"word": "levee",
+			"description": "a structure that is intended to stop water from overflowing"
+		},
+		{
+			"word": "lichens",
+			"description": "organisms made of algae and fungi growing together"
+		},
+		{
+			"word": "life cycle",
+			"description": "the stages a plant or animal goes through from birth to death"
+		},
+		{
+			"word": "lift",
+			"description": "a force that acts to raise an object into the air"
+		},
+		{
+			"word": "ligaments",
+			"description": "a stringy tissue that connects bones together"
+		},
+		{
+			"word": "light microscope",
+			"description": "microscope that uses visible light and lenses"
+		},
+		{
+			"word": "light pollution",
+			"description": "city lights that brighten the sky and block out the stars"
+		},
+		{
+			"word": "light year",
+			"description": "the distance that light can travel in one year"
+		},
+		{
+			"word": "liquefaction",
+			"description": "when heavy rains and shaking causes soil to act like quicksand"
+		},
+		{
+			"word": "liquid",
+			"description": "a form of matter with fixed volume that can flow"
+		},
+		{
+			"word": "lithosphere",
+			"description": "the layer of the Earth made up of the uppermost mantle and the crust"
+		},
+		{
+			"word": "litter",
+			"description": "trash that is not properly thrown away"
+		},
+		{
+			"word": "logarithmic",
+			"description": "special numbering system where each number represents a multiple of the number before it"
+		},
+		{
+			"word": "logger",
+			"description": "a worker who cuts trees into logs"
+		},
+		{
+			"word": "lower mantle",
+			"description": "very dense under part of the mantle with hot flowing rock"
+		},
+		{
+			"word": "luge",
+			"description": "a small one or two-person sled"
+		},
+		{
+			"word": "lunar eclipse",
+			"description": "when Earth blocks the Sun's light from reaching the Moon"
+		},
+		{
+			"word": "lunar module",
+			"description": "part of the Apollo spacecraft that landed on the moon"
+		},
+		{
+			"word": "lunar roving vehicle",
+			"description": "a type of cart astronauts used to travel on the moon"
+		},
+		{
+			"word": "lungs",
+			"description": "organs in many animals used for breathing"
+		},
+		{
+			"word": "lupine",
+			"description": "a type of pea plant with long flowers that can grow in ash"
+		},
+		{
+			"word": "magma",
+			"description": "hot melted liquid rock that moves beneath the Earth's surface"
+		},
+		{
+			"word": "magma chamber",
+			"description": "an underground pool of molten rock"
+		},
+		{
+			"word": "magnet",
+			"description": "an object that attracts or repels other magnetic objects"
+		},
+		{
+			"word": "magnetic field",
+			"description": "invisible force that attracts or repels other magnets"
+		},
+		{
+			"word": "magnetic resonance imaging",
+			"description": "technology used to make an image of the soft parts inside a patient's body"
+		},
+		{
+			"word": "magnetism",
+			"description": "the force that attracts certain materials and other magnets"
+		},
+		{
+			"word": "magnetometer",
+			"description": "a device used to measure a magnetic field"
+		},
+		{
+			"word": "magnified",
+			"description": "an object appearing larger than it really is"
+		},
+		{
+			"word": "magnitude",
+			"description": "greatness in strength or extent"
+		},
+		{
+			"word": "maillard reaction",
+			"description": "chemical reaction some proteins and sugars have when cooked"
+		},
+		{
+			"word": "main sequence star",
+			"description": "an adult star that is shining a lot of energy into space"
+		},
+		{
+			"word": "mammals",
+			"description": "family of animals that have hair and provide milk for their babies"
+		},
+		{
+			"word": "mantle",
+			"description": "the layer of Earth just below the crust"
+		},
+		{
+			"word": "marine animals",
+			"description": "an animal that lives in the water"
+		},
+		{
+			"word": "marine debris",
+			"description": "litter that is thrown into the ocean or sea"
+		},
+		{
+			"word": "maritime",
+			"description": "having to do with the sea or sea travel"
+		},
+		{
+			"word": "marsh",
+			"description": "area of low wet land"
+		},
+		{
+			"word": "mass",
+			"description": "the amount of matter (stuff) that makes up an object"
+		},
+		{
+			"word": "mate",
+			"description": "when two animals of the same species have children together"
+		},
+		{
+			"word": "matter",
+			"description": "anything that takes up space and has weight"
+		},
+		{
+			"word": "mauna loa",
+			"description": "the largest volcano on Earth"
+		},
+		{
+			"word": "medulla",
+			"description": "area of the brain stem that controls breathing, heart rate, and blood pressure"
+		},
+		{
+			"word": "meiosis",
+			"description": "the process in which a sex cell divides into four new cells"
+		},
+		{
+			"word": "melody",
+			"description": "when two or more pitches are played after one another"
+		},
+		{
+			"word": "mercury",
+			"description": "a heavy, silvery metal element usually liquid"
+		},
+		{
+			"word": "mesas",
+			"description": "a big hill with a large flat top"
+		},
+		{
+			"word": "metabolism",
+			"description": "the chemical reactions that happen inside a living body"
+		},
+		{
+			"word": "metamorphic rock",
+			"description": "rock made from small pieces of minerals and fossils that are hardened together"
+		},
+		{
+			"word": "metamorphosis",
+			"description": "life cycle or stages some animals go through from birth to adult"
+		},
+		{
+			"word": "metaphase",
+			"description": "stage of mitosis where chromosomes align in the center of a cell."
+		},
+		{
+			"word": "metaphase plate",
+			"description": "imaginary line that chromosomes line up on during the metaphase of mitosis."
+		},
+		{
+			"word": "meteor",
+			"description": "a meteoroid that falls into Earth's atmosphere"
+		},
+		{
+			"word": "meteor shower",
+			"description": "when many small space rocks fall into the Earth's atmosphere and burn"
+		},
+		{
+			"word": "meteoroid",
+			"description": "a metal or stone space rock that travels in outer space"
+		},
+		{
+			"word": "meteorologist",
+			"description": "a scientist who studies the weather"
+		},
+		{
+			"word": "meteorology",
+			"description": "the study of the weather"
+		},
+		{
+			"word": "methane",
+			"description": "a natural gas we use for cooking and heating"
+		},
+		{
+			"word": "microbes",
+			"description": "a tiny one-celled organism"
+		},
+		{
+			"word": "microbiology",
+			"description": "the study of tiny living things"
+		},
+		{
+			"word": "micrometeoroid",
+			"description": "tiny rocks in space"
+		},
+		{
+			"word": "micrometers",
+			"description": "one-millionth of a meter"
+		},
+		{
+			"word": "microorganisms",
+			"description": "a living thing too small to see with just your eyes"
+		},
+		{
+			"word": "microscope",
+			"description": "a device used to look at objects too small for the eye to see"
+		},
+		{
+			"word": "mid-atlantic ridge",
+			"description": "where huge slabs of rock move away from each other in the middle of the Atlantic Ocean"
+		},
+		{
+			"word": "mid-ocean ridge",
+			"description": "a long line of mountains under the ocean"
+		},
+		{
+			"word": "middle ear",
+			"description": "where the ear drum and ear bones are located"
+		},
+		{
+			"word": "migrate",
+			"description": "when an animal moves to another area"
+		},
+		{
+			"word": "milky way",
+			"description": "the galaxy we live in"
+		},
+		{
+			"word": "milled",
+			"description": "the process of removing the outer layers of a grain"
+		},
+		{
+			"word": "mimicry",
+			"description": "an organism's copying of another organism"
+		},
+		{
+			"word": "minerals",
+			"description": "natural substances found in the earth that your body needs to function."
+		},
+		{
+			"word": "mining",
+			"description": "the process of taking out valuable minerals from the Earth"
+		},
+		{
+			"word": "mites",
+			"description": "a diverse group of very small bugs that can lift 1000 times their own weight"
+		},
+		{
+			"word": "mitosis",
+			"description": "cell division where the nucleus of a cell splits into two identical copies."
+		},
+		{
+			"word": "mixture",
+			"description": "when two or more substances are put together but are not changed"
+		},
+		{
+			"word": "model",
+			"description": "something that is built to explain an idea"
+		},
+		{
+			"word": "model organism",
+			"description": "a non-human species that has been studied a lot"
+		},
+		{
+			"word": "modem",
+			"description": "special hardware computers once used to communicate with other computers"
+		},
+		{
+			"word": "modify",
+			"description": "to change or alter something"
+		},
+		{
+			"word": "modular",
+			"description": "something that is made up of smaller parts"
+		},
+		{
+			"word": "mold",
+			"description": "a small fungus that grows on decaying plants and animals"
+		},
+		{
+			"word": "molecule",
+			"description": "what is made when two or more atoms (of the same or different kind) bind together"
+		},
+		{
+			"word": "molt",
+			"description": "when an animal sheds its outer layer"
+		},
+		{
+			"word": "molten",
+			"description": "melted (turned into a liquid from being heated)"
+		},
+		{
+			"word": "monitor",
+			"description": "a screen used to show information from a computer"
+		},
+		{
+			"word": "monsoon",
+			"description": "a change in wind direction that comes with the change in season"
+		},
+		{
+			"word": "monsoon desert",
+			"description": "a desert with two types of weather caused by seasonal changes in the wind"
+		},
+		{
+			"word": "moss",
+			"description": "a green flowerless plant that grows in patches on rocks, trees, and on the ground"
+		},
+		{
+			"word": "motion",
+			"description": "a movement or change in position"
+		},
+		{
+			"word": "mucus",
+			"description": "a slimy fluid that protects from germs and keeps surfaces moist"
+		},
+		{
+			"word": "mummy",
+			"description": "a dead body that has been preserved well for a long time"
+		},
+		{
+			"word": "mutate",
+			"description": "to change in form or behavior from how something was orignally"
+		},
+		{
+			"word": "mutations",
+			"description": "an unexpected change in an organism's cells"
+		},
+		{
+			"word": "mutualism",
+			"description": "a relationship between two species of plants or animals, where both help each other live"
+		},
+		{
+			"word": "nanomedicine",
+			"description": "use of tiny particles to help find and cure diseases"
+		},
+		{
+			"word": "NASA",
+			"description": "space agency of the United States"
+		},
+		{
+			"word": "native",
+			"description": "to originate or start in a certain place"
+		},
+		{
+			"word": "natural disaster",
+			"description": "a natural event that is very destructive, such as a hurricane or earthquake"
+		},
+		{
+			"word": "natural hazard",
+			"description": "a large, natural event that is very destructive"
+		},
+		{
+			"word": "natural resource",
+			"description": "anything people can use from nature"
+		},
+		{
+			"word": "natural selection",
+			"description": "the way certain organisms adapt so they survive while weaker organisms die"
+		},
+		{
+			"word": "naturalist",
+			"description": "someone who studies plants and animals"
+		},
+		{
+			"word": "navigation",
+			"description": "a process that helps you get from one place to another"
+		},
+		{
+			"word": "neap tide",
+			"description": "a weak tide that occurs when the Sun and moon pull in different directions"
+		},
+		{
+			"word": "nebula",
+			"description": "a cloud of gas and dust in space"
+		},
+		{
+			"word": "nectar",
+			"description": "a sweet liquid made by plants as food to attract helpful animals"
+		},
+		{
+			"word": "negative correlation",
+			"description": "when something measured has one variable that increases when another one decreases"
+		},
+		{
+			"word": "nematode",
+			"description": "many types of small worms that can live in soil, plants, or animals"
+		},
+		{
+			"word": "neuron",
+			"description": "a nerve cell that carries information from one part of the body to another"
+		},
+		{
+			"word": "neutron",
+			"description": "a tiny particle in the core of an atom"
+		},
+		{
+			"word": "neutron star",
+			"description": "a star made up almost entirely of neutrons"
+		},
+		{
+			"word": "ngorongoro crater",
+			"description": "a large basin in East Africa where many animals live"
+		},
+		{
+			"word": "nocebo effect",
+			"description": "when you feel worse because you believe or expect to feel worse"
+		},
+		{
+			"word": "nocturnal",
+			"description": "active only at night"
+		},
+		{
+			"word": "nomadic",
+			"description": "travelling from place to place and having no permanent home"
+		},
+		{
+			"word": "normal fault",
+			"description": "when rock moves, and the rock on one side of a fault is pushed down by gravity"
+		},
+		{
+			"word": "normal polarity",
+			"description": "when a compass on Earth faces the North Pole"
+		},
+		{
+			"word": "northern and southern lights",
+			"description": "the lens of the microscope that is closest to the object you are looking at"
+		},
+		{
+			"word": "nuclear fission",
+			"description": "the splitting of unstable particles into smaller stable ones"
+		},
+		{
+			"word": "nuclear fusion",
+			"description": "when light elements combine to make heavier ones and release energy"
+		},
+		{
+			"word": "nuclear membrane",
+			"description": "the wall that surrounds the nucleus of a cell"
+		},
+		{
+			"word": "nuclear power plant",
+			"description": "a facility where atoms are split apart to make electrcity"
+		},
+		{
+			"word": "nucleotides",
+			"description": "small molecules that make up DNA"
+		},
+		{
+			"word": "nurseries",
+			"description": "a place where young animals are cared for by humans"
+		},
+		{
+			"word": "nutrient",
+			"description": "a substance that nourishes"
+		},
+		{
+			"word": "o-ring seals",
+			"description": "small rubber rings used to join two parts and prevent liquids or gases from leaking out"
+		},
+		{
+			"word": "objective lenses",
+			"description": "the lens of the microscope that is closest to the object you are looking at"
+		},
+		{
+			"word": "observation",
+			"description": "examining the way things look, sound, taste, smell, and feel"
+		},
+		{
+			"word": "occams razor",
+			"description": "idea stating that when two explanations are equally good, the simpler one tends to be correct"
+		},
+		{
+			"word": "ocean nurseries",
+			"description": "a place where young fish are hatched and grow in a safe environment"
+		},
+		{
+			"word": "oceanography",
+			"description": "the study of the ocean"
+		},
+		{
+			"word": "offspring",
+			"description": "an animal or plant's children"
+		},
+		{
+			"word": "olfactory system",
+			"description": "the parts of the body used for smelling"
+		},
+		{
+			"word": "olympus mons",
+			"description": "a large volcanic mountain on Mars"
+		},
+		{
+			"word": "omnivore",
+			"description": "an animal that eats both plants and animals"
+		},
+		{
+			"word": "opaque",
+			"description": "an object that that is not see-through"
+		},
+		{
+			"word": "operating system",
+			"description": "the basic software that controls a computer"
+		},
+		{
+			"word": "optical system",
+			"description": "the part of the body used for seeing"
+		},
+		{
+			"word": "optics",
+			"description": "the study of the behavior of light"
+		},
+		{
+			"word": "orb web",
+			"description": "a circular web"
+		},
+		{
+			"word": "orbit",
+			"description": "revolving or moving around something else in a circular motion"
+		},
+		{
+			"word": "orbiter vehicle",
+			"description": "part of the space shuttle that the astronauts fly in"
+		},
+		{
+			"word": "ore",
+			"description": "special minerals or rocks from the Earth that have valuable things in them"
+		},
+		{
+			"word": "organ",
+			"description": "a part of the body, like the stomach or heart, that does a specific job"
+		},
+		{
+			"word": "organelles",
+			"description": "organs of a cell"
+		},
+		{
+			"word": "organism",
+			"description": "a form of life, such as a plant or animal"
+		},
+		{
+			"word": "osmometer",
+			"description": "a machine that tells the boiling and freezing point of a solution"
+		},
+		{
+			"word": "outcome",
+			"description": "the end result of something"
+		},
+		{
+			"word": "outer ear",
+			"description": "the part of the ear you can see"
+		},
+		{
+			"word": "ovary",
+			"description": "plant part where seeds are developed"
+		},
+		{
+			"word": "overfish",
+			"description": "when too many fish get caught and the species is in danger"
+		},
+		{
+			"word": "overflow",
+			"description": "when a container gets so full that its contents spill out"
+		},
+		{
+			"word": "oxygen",
+			"description": "the gas that we breathe"
+		},
+		{
+			"word": "pahoehoe lava",
+			"description": "thin type of lava that moves quickly"
+		},
+		{
+			"word": "paleontologist",
+			"description": "a scientist who studies animals and plants that lived in the past"
+		},
+		{
+			"word": "paleontology",
+			"description": "the study of prehistoric plants and animals"
+		},
+		{
+			"word": "pangaea",
+			"description": "single land mass that split into Earth's continents and separated over millions of years"
+		},
+		{
+			"word": "paralysis",
+			"description": "the complete loss of the ability to move"
+		},
+		{
+			"word": "paraplegic",
+			"description": "someone who doesn't have legs or can't use them"
+		},
+		{
+			"word": "parasite",
+			"description": "life forms that live off of other life forms"
+		},
+		{
+			"word": "parent cell",
+			"description": "a cell that's going through cell division"
+		},
+		{
+			"word": "partial eclipse",
+			"description": "when a part of the moon or the Sun is blocked from view on Earth"
+		},
+		{
+			"word": "particle",
+			"description": "a tiny bit of matter"
+		},
+		{
+			"word": "particulates",
+			"description": "tiny pieces of matter in the atmosphere"
+		},
+		{
+			"word": "patent",
+			"description": "right or authority saying you own the rights to an invention"
+		},
+		{
+			"word": "payload",
+			"description": "the stuff that a vehicle is carrying"
+		},
+		{
+			"word": "pendulum",
+			"description": "an object that is hung from a fixed point so that it swings back and forth freely"
+		},
+		{
+			"word": "peninsula",
+			"description": "a mass of land that is surrounded on three sides by water"
+		},
+		{
+			"word": "penny-farthing",
+			"description": "a bicycle with one large front wheel and one small back wheel"
+		},
+		{
+			"word": "penumbra",
+			"description": "a partial shadow where some sunlight is blocked by the Earth or the moon"
+		},
+		{
+			"word": "percussion",
+			"description": "the making of sound by hitting, shaking, or scraping an object"
+		},
+		{
+			"word": "period",
+			"description": "how rows of elements in the Periodic Table are organized by electron orbits"
+		},
+		{
+			"word": "periodic table",
+			"description": "a chart that organzes elements by both their physical properties and number of protons"
+		},
+		{
+			"word": "peripheral nervous system",
+			"description": "nerve system that is outside of the brain and the spinal cord"
+		},
+		{
+			"word": "permafrost",
+			"description": "soil that has been frozen for at least two years"
+		},
+		{
+			"word": "personal values",
+			"description": "that which drives what we do and how we do it"
+		},
+		{
+			"word": "pesticide",
+			"description": "chemicals used to control harmful pests"
+		},
+		{
+			"word": "ph",
+			"description": "a number scale that tells if a substance is an acid or a base"
+		},
+		{
+			"word": "phases of the moon",
+			"description": "changes in the Moon's lighting as it is seen from Earth"
+		},
+		{
+			"word": "phenotype",
+			"description": "all of an organism's physical and behavioral traits"
+		},
+		{
+			"word": "pheromone",
+			"description": "a scent an animal gives off to communicate"
+		},
+		{
+			"word": "photoreceptors",
+			"description": "rods and cones in the optic system that sense light"
+		},
+		{
+			"word": "photosynthesis",
+			"description": "the way plants create food from carbon dioxide, water, and the Sun's energy"
+		},
+		{
+			"word": "physical adaptation",
+			"description": "a change in form due to evolution"
+		},
+		{
+			"word": "physical change",
+			"description": "when an object changes form or shape but it is still the same substance"
+		},
+		{
+			"word": "physical characteristic",
+			"description": "the features of a person or animal's body"
+		},
+		{
+			"word": "physical properties",
+			"description": "features of matter that can be measured"
+		},
+		{
+			"word": "physicist",
+			"description": "a scientist who studies matter, energy, and movement"
+		},
+		{
+			"word": "physics",
+			"description": "the study of matter, energy, and how things work"
+		},
+		{
+			"word": "phytoplankton",
+			"description": "tiny sea plants that drift or float with water currents"
+		},
+		{
+			"word": "pie chart",
+			"description": "a circular graph that you can use to compare things"
+		},
+		{
+			"word": "pistons",
+			"description": "moveable engine parts that cause the other parts to move"
+		},
+		{
+			"word": "pitch",
+			"description": "how high or low a tone is, another word for frequency"
+		},
+		{
+			"word": "pituitary gland",
+			"description": "master gland that releases hormones that tell other glands to do their jobs"
+		},
+		{
+			"word": "pivot",
+			"description": "to turn about a point"
+		},
+		{
+			"word": "placebo effect",
+			"description": "when you feel better because you believe or expect to feel better"
+		},
+		{
+			"word": "planetary nebula",
+			"description": "a halo of gas and dust around a white dwarf star"
+		},
+		{
+			"word": "planetary science",
+			"description": "science regarding the space bodies in our solar system"
+		},
+		{
+			"word": "plankton",
+			"description": "tiny sea plants and animals that drift in the water and are eaten by sea animals"
+		},
+		{
+			"word": "plasma",
+			"description": "a gas-like form of matter that usually only forms at very high temperatures"
+		},
+		{
+			"word": "plasmid",
+			"description": "a small circle of DNA found in bacteria"
+		},
+		{
+			"word": "plate",
+			"description": "the giant slabs of rock that outermost layer of Earth is broken into"
+		},
+		{
+			"word": "plate tectonics",
+			"description": "theory that ocean floor and continents ride on top of large moving  plates"
+		},
+		{
+			"word": "plateau",
+			"description": "a mountain with a large flat top"
+		},
+		{
+			"word": "plateau mountain",
+			"description": "a mountain formed when rivers of ice or water carve deep channels into a high region"
+		},
+		{
+			"word": "platelets",
+			"description": "cell fragments in the blood stream that help with blood clotting"
+		},
+		{
+			"word": "plumage",
+			"description": "feathers we can see on animals like birds"
+		},
+		{
+			"word": "poison ivy",
+			"description": "a plant that can cause an itchy rash and blisters"
+		},
+		{
+			"word": "polar cap",
+			"description": "places that have ice year round and no liquid water"
+		},
+		{
+			"word": "polar desert",
+			"description": "deserts with ice and snow but very little liquid water"
+		},
+		{
+			"word": "polar orbit",
+			"description": "a type of orbit where a satellite passes over Earth's poles"
+		},
+		{
+			"word": "polarized",
+			"description": "light waves that vibrate in a specific direction"
+		},
+		{
+			"word": "pole",
+			"description": "the part on the magnet that attracts or repels the pole on another magnet"
+		},
+		{
+			"word": "pollen",
+			"description": "a powder most flowers make to create seeds"
+		},
+		{
+			"word": "pollinate",
+			"description": "process of making new plants"
+		},
+		{
+			"word": "pollinator",
+			"description": "animals that move pollen from plant to plant"
+		},
+		{
+			"word": "pollutants",
+			"description": "a substance that can contaminate water and air"
+		},
+		{
+			"word": "pollution",
+			"description": "something harmful or poisonous that is added to the environment"
+		},
+		{
+			"word": "positive correlation",
+			"description": "when two variables increase or decrease at the same time"
+		},
+		{
+			"word": "potential energy",
+			"description": "the energy an object has because of its position and other factors"
+		},
+		{
+			"word": "power grid",
+			"description": "a system of wires and switches that connects buildings and houses with power lines"
+		},
+		{
+			"word": "power plant",
+			"description": "a factory that produces electricity with generators"
+		},
+		{
+			"word": "precipitate",
+			"description": "a solid material that forms out of a liquid solution"
+		},
+		{
+			"word": "precipitation",
+			"description": "water that falls from the sky, such as rain, snow, or hail"
+		},
+		{
+			"word": "predator",
+			"description": "an animal that captures and eats other animals"
+		},
+		{
+			"word": "prediction",
+			"description": "a guess about what will happen in the future based on past observation or experience"
+		},
+		{
+			"word": "preening",
+			"description": "what a bird does to keep itself clean"
+		},
+		{
+			"word": "prehistoric",
+			"description": "before recorded history, or before people learned to write"
+		},
+		{
+			"word": "pressure",
+			"description": "a force that pushes on an object"
+		},
+		{
+			"word": "prey",
+			"description": "animals that are hunted and eaten by other animals"
+		},
+		{
+			"word": "primitive",
+			"description": "simple or basic"
+		},
+		{
+			"word": "probability",
+			"description": "how likely something is to happen"
+		},
+		{
+			"word": "probiotic",
+			"description": "something helpful for life"
+		},
+		{
+			"word": "proboscis",
+			"description": "a long thin tube that forms part of the mouth of some animals"
+		},
+		{
+			"word": "product",
+			"description": "the end result of a chemical reaction"
+		},
+		{
+			"word": "program-computer",
+			"description": "a group of instructions that tells the computer what to do"
+		},
+		{
+			"word": "project mercury",
+			"description": "nASA's program to send people into space"
+		},
+		{
+			"word": "propel",
+			"description": "to push or drive forward"
+		},
+		{
+			"word": "properties",
+			"description": "features of matter"
+		},
+		{
+			"word": "prophase",
+			"description": "stage of mitosis where the nuclear membrane of the nucleus breaks down"
+		},
+		{
+			"word": "prosthetic",
+			"description": "a man-made limb, such as a leg or arm"
+		},
+		{
+			"word": "protective coloring",
+			"description": "an organisms color that will help it stay safe"
+		},
+		{
+			"word": "protein",
+			"description": "large and complicated molecules needed for life"
+		},
+		{
+			"word": "protein synthesis",
+			"description": "the process of making proteins."
+		},
+		{
+			"word": "proton",
+			"description": "a particle in the nucleus of an atom with a positive charge"
+		},
+		{
+			"word": "protostar",
+			"description": "early stage of life for a star before it is actually 'born'"
+		},
+		{
+			"word": "protozoa",
+			"description": "one celled organisms that are the oldest form of animal life"
+		},
+		{
+			"word": "pruning",
+			"description": "to trim dead or unwanted pieces of a tree or plant"
+		},
+		{
+			"word": "pulley",
+			"description": "a simple machine with a wheel and a rope used to lift things"
+		},
+		{
+			"word": "pulsar",
+			"description": "a neutron star that pulses light with each rotation"
+		},
+		{
+			"word": "pumice",
+			"description": "a light volcanic rock that can float in water"
+		},
+		{
+			"word": "Punnett Square",
+			"description": "diagram used to predict the traits a child will inherit from parents"
+		},
+		{
+			"word": "pupa",
+			"description": "a stage in the life cycle of some insects between larva and adult"
+		},
+		{
+			"word": "purebred",
+			"description": "an animal whose ancestors were of the same breed"
+		},
+		{
+			"word": "purify",
+			"description": "make clean"
+		},
+		{
+			"word": "pyroclastic flow",
+			"description": "the gas, ash, and rock that some volcanoes spew out"
+		},
+		{
+			"word": "qualitative observation",
+			"description": "using words to describe the characteristics of something"
+		},
+		{
+			"word": "quantitative observation",
+			"description": "using numbers to describe the characteristics of something"
+		},
+		{
+			"word": "quasar",
+			"description": "the brightest objects in the sky caused by gas spiraling into a black hole"
+		},
+		{
+			"word": "radar",
+			"description": "a system to detect nearby objects by sending out radio waves"
+		},
+		{
+			"word": "radiate",
+			"description": "put out forms of energy in waves or rays"
+		},
+		{
+			"word": "radiation",
+			"description": "how heat moves in the form of invisible light waves"
+		},
+		{
+			"word": "radio antenna",
+			"description": "a metal device used to pick up radio waves"
+		},
+		{
+			"word": "radio waves",
+			"description": "an invisible light wave used for communication"
+		},
+		{
+			"word": "radioactive",
+			"description": "unstable atoms that give off high-energy particles"
+		},
+		{
+			"word": "radioactive decay",
+			"description": "decay or breakup due to unstable atoms"
+		},
+		{
+			"word": "radiology",
+			"description": "the study and treatment of diseases usually using x-rays"
+		},
+		{
+			"word": "radius",
+			"description": "the distance from the center to the edge of a circle"
+		},
+		{
+			"word": "rain gauge",
+			"description": "a device used to measure how much rain or snow has fallen"
+		},
+		{
+			"word": "rain shadow",
+			"description": "an area that’s dry because air cools and loses moisture before reaching it"
+		},
+		{
+			"word": "rain shadow desert",
+			"description": "a desert that forms on the dry side of a mountain"
+		},
+		{
+			"word": "rainforest",
+			"description": "a type of forest that gets at least 68 inches of rain each year"
+		},
+		{
+			"word": "rapid eye movement",
+			"description": "the dreaming part of the  sleep cycle"
+		},
+		{
+			"word": "reactant",
+			"description": "a substance that reacts and changes when in contact with another substance"
+		},
+		{
+			"word": "reaction",
+			"description": "the response to an action"
+		},
+		{
+			"word": "reaction rate",
+			"description": "how quickly molecules change when they interact"
+		},
+		{
+			"word": "rebel asteroid",
+			"description": "an asteroid that leaves the asteroid belt"
+		},
+		{
+			"word": "receptor",
+			"description": "small body parts that sense pain\",\" sound\",\" light\",\" and taste"
+		},
+		{
+			"word": "recessive",
+			"description": "form of a gene that can be masked by a dominant gene"
+		},
+		{
+			"word": "recessive",
+			"description": "an allele whose effect can be hidden by another allele"
+		},
+		{
+			"word": "reconnaissance satellites",
+			"description": "an object that orbits the earth and is used to spy on other countries"
+		},
+		{
+			"word": "recycle",
+			"description": "turning garbage into something else to reuse"
+		},
+		{
+			"word": "red dwarf star",
+			"description": "the most common type of star in the universe"
+		},
+		{
+			"word": "red giant star",
+			"description": "the later stage of star's life when it grows and turns red"
+		},
+		{
+			"word": "reed",
+			"description": "tall grasses that are found in marshes and other wetlands"
+		},
+		{
+			"word": "reed",
+			"description": "thin piece of wood whose vibration produces sound"
+		},
+		{
+			"word": "refined grains",
+			"description": "a grain that has had its outer layers removed"
+		},
+		{
+			"word": "reflect",
+			"description": "bending or throwing back light, sound, or other waves"
+		},
+		{
+			"word": "reflex",
+			"description": "a quick, protective movement of a body part"
+		},
+		{
+			"word": "refraction",
+			"description": "when light bends because it travels from one medium to another"
+		},
+		{
+			"word": "release",
+			"description": "energy that is freed up or let go"
+		},
+		{
+			"word": "renewable",
+			"description": "a resource that can be replaced over and over again"
+		},
+		{
+			"word": "repel",
+			"description": "to keep away or push away"
+		},
+		{
+			"word": "replicate",
+			"description": "to make copies of something"
+		},
+		{
+			"word": "reproduce",
+			"description": "make children or offspring"
+		},
+		{
+			"word": "reptile",
+			"description": "a cold-blooded animal with a backbone that can live on land or water"
+		},
+		{
+			"word": "resist",
+			"description": "to stop or prevent something from happening"
+		},
+		{
+			"word": "resisting force",
+			"description": "something that slows down a moving object"
+		},
+		{
+			"word": "respiratory system",
+			"description": "organs & muscles that bring oxygen into your body and take carbon dioxide out"
+		},
+		{
+			"word": "retractable",
+			"description": "able to be drawn, or pulled, back"
+		},
+		{
+			"word": "reversed polarity",
+			"description": "when a compass on Earth faces the South Pole"
+		},
+		{
+			"word": "revolve",
+			"description": "same as orbiting or moving around another body n a circular motion"
+		},
+		{
+			"word": "revolver",
+			"description": "the part of microscope that allows you change the lens"
+		},
+		{
+			"word": "rhinoceros beetle",
+			"description": "large insect with horns used for digging and fighting"
+		},
+		{
+			"word": "rhizome",
+			"description": "stem of a plant that grows horizontally underground"
+		},
+		{
+			"word": "ribosome",
+			"description": "a special structure in a cell that makes proteins"
+		},
+		{
+			"word": "ring of fire",
+			"description": "volcanoes that surround the Pacific Ocean"
+		},
+		{
+			"word": "rituals",
+			"description": "ceremonies, or series or actions, that are believed to have special meanings"
+		},
+		{
+			"word": "rocket engine",
+			"description": "an engine that propels a spaceship into space"
+		},
+		{
+			"word": "rodents",
+			"description": "a small animal with sharp teeth for gnawing and nibbling"
+		},
+		{
+			"word": "role model",
+			"description": "a person you look up to and admire"
+		},
+		{
+			"word": "rotate",
+			"description": "spin around a center or axis"
+		},
+		{
+			"word": "rover",
+			"description": "a vehicle that can travel on the ground of a moon or other space body"
+		},
+		{
+			"word": "runoff",
+			"description": "when water runs over the surface of the ground towards a large body of water"
+		},
+		{
+			"word": "sample",
+			"description": "a small part of something that represents the whole thing"
+		},
+		{
+			"word": "satellite",
+			"description": "a space body that orbits around a planet or a star"
+		},
+		{
+			"word": "saturated",
+			"description": "full, unable to hold more"
+		},
+		{
+			"word": "saturated fat",
+			"description": "a type of fat normally found in meat  products"
+		},
+		{
+			"word": "saturn v rocket",
+			"description": "rocket that carried the Apollo spacecraft into space"
+		},
+		{
+			"word": "scavenger",
+			"description": "an animal that eats dead animals"
+		},
+		{
+			"word": "scientific inquiry",
+			"description": "a series of steps that scientists follow"
+		},
+		{
+			"word": "scientific method",
+			"description": "the process scientists use to learn about something"
+		},
+		{
+			"word": "scoria",
+			"description": "an iron-based volcanic rock that sinks in water"
+		},
+		{
+			"word": "secrete",
+			"description": "when something is produced and discharged, typically by an animal"
+		},
+		{
+			"word": "sediment",
+			"description": "tiny bits of rock and shells carried by water currents"
+		},
+		{
+			"word": "sedimentary rock",
+			"description": "rocks made from small pieces of rock, minerals, and fossils that are hardened together"
+		},
+		{
+			"word": "seismic waves",
+			"description": "the shaking of the Earth caused mostly by earthquakes"
+		},
+		{
+			"word": "seismologist",
+			"description": "a scientist who studies earthquakes"
+		},
+		{
+			"word": "seismometer",
+			"description": "a device that measures the shaking of the ground"
+		},
+		{
+			"word": "self-pollinate",
+			"description": "when a plant uses its own pollen to have offspring"
+		},
+		{
+			"word": "sensory neurons",
+			"description": "neurons that carry messages from your sensory organs, such as your eyes and ears"
+		},
+		{
+			"word": "service module",
+			"description": "part of a spacecraft that holds support items, including air and fuel"
+		},
+		{
+			"word": "sessile",
+			"description": "animals that cannot move"
+		},
+		{
+			"word": "setae",
+			"description": "stiff hairs on Gecko feet"
+		},
+		{
+			"word": "silk web",
+			"description": "the webs made by spiders to catch their prey"
+		},
+		{
+			"word": "sinkholes",
+			"description": "a pit that opens up in the ground because of a cave underneath"
+		},
+		{
+			"word": "skeletal muscles",
+			"description": "muscles around your bones"
+		},
+		{
+			"word": "skepticism",
+			"description": "questioning or doubting claims until they are proven or checked out"
+		},
+		{
+			"word": "skyglow",
+			"description": "the glow from the night sky that results from light pollution"
+		},
+		{
+			"word": "skylab",
+			"description": "the first US space station"
+		},
+		{
+			"word": "slide",
+			"description": "a hollow tube that moves back and forth to control pitch"
+		},
+		{
+			"word": "slope",
+			"description": "the side of a mountain"
+		},
+		{
+			"word": "snorkel",
+			"description": "a tube you can breathe through while your face is underwater"
+		},
+		{
+			"word": "social animals",
+			"description": "animals that live in groups and depend on each other"
+		},
+		{
+			"word": "sod",
+			"description": "grass-covered soil and the interwoven roots that keep it together"
+		},
+		{
+			"word": "sodium",
+			"description": "an element commonly known to make up salt"
+		},
+		{
+			"word": "sodium compound",
+			"description": "common compounds containing sodium such as salts used for preserving food and producing glass"
+		},
+		{
+			"word": "solar eclipse",
+			"description": "when the moon blocks the Sun's light from reaching the Earth"
+		},
+		{
+			"word": "solar energy",
+			"description": "energy coming from the sun"
+		},
+		{
+			"word": "solar power",
+			"description": "electricity produced by collecting heat energy or light from the Sun"
+		},
+		{
+			"word": "solar system",
+			"description": "a star and all the planets that revolve around it"
+		},
+		{
+			"word": "solar wind",
+			"description": "fast-moving charged particles that our Sun spews out"
+		},
+		{
+			"word": "solid",
+			"description": "hard objects that have molecules stuck in one position"
+		},
+		{
+			"word": "solid rocket booster",
+			"description": "part of the Space Shuttle system that helps push it most of the way to space"
+		},
+		{
+			"word": "solstice",
+			"description": "the two days each year when Earth's axis is most tilted, away from or towards the Sun"
+		},
+		{
+			"word": "soluble",
+			"description": "able to be dissolved"
+		},
+		{
+			"word": "solute",
+			"description": "a substance that can be dissolved in another substance"
+		},
+		{
+			"word": "solution",
+			"description": "a mixture where the tiny particles of one substance are spread evenly through another substance."
+		},
+		{
+			"word": "solvent",
+			"description": "a substance that is usually a liquid that can dissolve another substance"
+		},
+		{
+			"word": "sonar",
+			"description": "a way of locating objects through the bouncing of sound wave echoes"
+		},
+		{
+			"word": "soundproofing",
+			"description": "to use materials to block sound waves"
+		},
+		{
+			"word": "space capsule",
+			"description": "the part of a spacecraft that returns people or things safely to Earth"
+		},
+		{
+			"word": "space probe",
+			"description": "an unmanned robotic spacecraft that explore outer space"
+		},
+		{
+			"word": "space race",
+			"description": "a race between the U.S. and USSR to be the best in space exploration."
+		},
+		{
+			"word": "space shuttle",
+			"description": "a spacecraft that flies many missions in space"
+		},
+		{
+			"word": "space station",
+			"description": "a spacecraft which remains in space for a long period of time"
+		},
+		{
+			"word": "spaceship",
+			"description": "vehicle designed to travel in outer space"
+		},
+		{
+			"word": "spatulae",
+			"description": "the hundreds of flat tips that the setae on the toes of a gecko splits into"
+		},
+		{
+			"word": "species",
+			"description": "a group of organisms that are alike and can have babies together"
+		},
+		{
+			"word": "spectrum",
+			"description": "the colors we see because light travels in waves of different sizes"
+		},
+		{
+			"word": "speed",
+			"description": "how fast an object is moving"
+		},
+		{
+			"word": "speleologists",
+			"description": "scientists who study caves"
+		},
+		{
+			"word": "spelunking",
+			"description": "exploring caves for fun"
+		},
+		{
+			"word": "sperm whale",
+			"description": "the world's second largest animal"
+		},
+		{
+			"word": "sphere",
+			"description": "half of a ball shape"
+		},
+		{
+			"word": "spinal cord",
+			"description": "bundle of nerve fibers and tissues that stretch from the base of the brain down to the waist"
+		},
+		{
+			"word": "spinneret",
+			"description": "a spider organ that makes silk for webs"
+		},
+		{
+			"word": "spiral galaxy",
+			"description": "a galaxy with a big, bright centre with 'arms' spiraling out"
+		},
+		{
+			"word": "spores",
+			"description": "seed-like substance needed for fungi to reproduce and grow"
+		},
+		{
+			"word": "spring force",
+			"description": "the force that makes a stretched or squeezed coil return to its original shape"
+		},
+		{
+			"word": "spring tide",
+			"description": "a very strong tide that occurs when the Sun, Earth, and the Moon are in a line"
+		},
+		{
+			"word": "sprout",
+			"description": "a new growth of a plant from a seed"
+		},
+		{
+			"word": "sputnik",
+			"description": "the first artificial satellite sent to orbit Earth."
+		},
+		{
+			"word": "stability",
+			"description": "ability to stay upright and not tip over"
+		},
+		{
+			"word": "stalactite",
+			"description": "an icicle-shaped structure growing from the ceiling of a cave"
+		},
+		{
+			"word": "stalagmite",
+			"description": "a cone-shaped structure growing from the ground of a cave"
+		},
+		{
+			"word": "state of matter",
+			"description": "one of the four forms that matter can exist in: solid, liquid, gas, and plasma"
+		},
+		{
+			"word": "static electricity",
+			"description": "a shock caused by objects rubbing and electrons jumping from one to the other"
+		},
+		{
+			"word": "sterilized",
+			"description": "free of germs"
+		},
+		{
+			"word": "stethoscope",
+			"description": "a medical tool used to hear sounds inside a body"
+		},
+		{
+			"word": "stigma",
+			"description": "plant part that takes in pollen and makes it grow"
+		},
+		{
+			"word": "storm chasers",
+			"description": "people who fly into storms for science or adventure"
+		},
+		{
+			"word": "strike-slip fault",
+			"description": "upright cracks in rock caused by their sideways or horizontal movements"
+		},
+		{
+			"word": "structure - plant",
+			"description": "the main parts that make up a plant"
+		},
+		{
+			"word": "subduction zone",
+			"description": "a large area where one of the Earth's plates is dragged under another plate"
+		},
+		{
+			"word": "sublimate",
+			"description": "when a substance changes directly from solid to gas"
+		},
+		{
+			"word": "submarine",
+			"description": "a vehicle that can explore underwater"
+		},
+		{
+			"word": "submerged",
+			"description": "sunken under water"
+		},
+		{
+			"word": "submission",
+			"description": "when an animal shows a stronger animal that it will obey"
+		},
+		{
+			"word": "supercells",
+			"description": "thunderstorms with strong rotating winds"
+		},
+		{
+			"word": "supernova",
+			"description": "when a giant star blows up at the end of its life"
+		},
+		{
+			"word": "superstitions",
+			"description": "a belief not based on facts or reason"
+		},
+		{
+			"word": "supply and demand",
+			"description": "determining prices based on item availability and how many people want them"
+		},
+		{
+			"word": "surface tension",
+			"description": "how strongly individual molecules on the surface of a substance stick to each other"
+		},
+		{
+			"word": "surge",
+			"description": "a sudden rise of water that hits a coastline"
+		},
+		{
+			"word": "surgery",
+			"description": "a medical treatment in which a doctor cuts into someone's body"
+		},
+		{
+			"word": "survival of the fittest",
+			"description": "animals speciees change over time because those with best traits have more babies"
+		},
+		{
+			"word": "swarm",
+			"description": "a large group of insects"
+		},
+		{
+			"word": "swell",
+			"description": "a wave"
+		},
+		{
+			"word": "symbiotic",
+			"description": "a relationship where organisms live together and help each other"
+		},
+		{
+			"word": "symbol",
+			"description": "a letter, number, or other character that stands for something"
+		},
+		{
+			"word": "synapse",
+			"description": "small gap between neurons"
+		},
+		{
+			"word": "syncline",
+			"description": "the bottom or the valley of a rocky hill or mountain"
+		},
+		{
+			"word": "synthetic",
+			"description": "a new artificial  fabric made by combining two or more things"
+		},
+		{
+			"word": "syringe",
+			"description": "a pump with a needle used to give people medicine"
+		},
+		{
+			"word": "t-cell",
+			"description": "white blood cells that grow up in the thymus that kill damaged cells"
+		},
+		{
+			"word": "talon",
+			"description": "a sharp, curved claw on a limb of a bird or other animal"
+		},
+		{
+			"word": "taste buds",
+			"description": "small structures on the tongue that allow us to taste food"
+		},
+		{
+			"word": "technique",
+			"description": "a way of doing things"
+		},
+		{
+			"word": "tectonic plate",
+			"description": "huge pieces of rock that the outer layer of Earth is broken into"
+		},
+		{
+			"word": "telescope",
+			"description": "an instrument used to see objects that are far away"
+		},
+		{
+			"word": "telophase",
+			"description": "final stage of mitosis where new nuclear membranes form around chromosomes"
+		},
+		{
+			"word": "temperate rainforests",
+			"description": "a rainforest with mild temperatures that is located between the tropics and the polar circles"
+		},
+		{
+			"word": "temperate zone",
+			"description": "places where the weather changes in each of the four seasons"
+		},
+		{
+			"word": "temperature",
+			"description": "how hot or cold something is"
+		},
+		{
+			"word": "tension force",
+			"description": "force created by pulling tightly on two ends of a rope or chain"
+		},
+		{
+			"word": "tentacle",
+			"description": "a long, arm-like animal part used for eating or moving"
+		},
+		{
+			"word": "terrestrial planet",
+			"description": "the four rocky planets closest to the Sun in our solar system"
+		},
+		{
+			"word": "territory",
+			"description": "the space or area that an animal owns"
+		},
+		{
+			"word": "testable",
+			"description": "able to be proven true or false"
+		},
+		{
+			"word": "texture",
+			"description": "how things feel when you touch them"
+		},
+		{
+			"word": "thaws",
+			"description": "when something that was frozen becomes soft or liquid because of heat"
+		},
+		{
+			"word": "theory",
+			"description": "a well thought-out explanation about why something happens"
+		},
+		{
+			"word": "theory of continental drift",
+			"description": "the idea that continents are slowly and continually moving"
+		},
+		{
+			"word": "theory of evolution",
+			"description": "the way the traits of organisms change over time so they can live in their environments"
+		},
+		{
+			"word": "theory of plate tectonics",
+			"description": "the scientific explanation of why and how plates and continents move"
+		},
+		{
+			"word": "theory of relativity",
+			"description": "theory that describes the behavior of matter at high speeds or under strong gravity"
+		},
+		{
+			"word": "theremin",
+			"description": "electrical instrument that's played without being touched"
+		},
+		{
+			"word": "thermal energy",
+			"description": "heat energy"
+		},
+		{
+			"word": "thorax",
+			"description": "the part of an animal’s body between its neck and waist"
+		},
+		{
+			"word": "three-dimensional",
+			"description": "something  with height, width, and depth"
+		},
+		{
+			"word": "thrust",
+			"description": "a reaction force that causes objects to move forward"
+		},
+		{
+			"word": "thrust fault",
+			"description": "when rocks on one side of a fault are pushed upwards"
+		},
+		{
+			"word": "thunder",
+			"description": "the sound of lightning"
+		},
+		{
+			"word": "tide",
+			"description": "the regular rise and fall of sea levels twice a day"
+		},
+		{
+			"word": "tide pools",
+			"description": "pools of water left behind after a high tide"
+		},
+		{
+			"word": "tiltmeter",
+			"description": "a tool used to help predict when a volcano will erupt"
+		},
+		{
+			"word": "timbre",
+			"description": "sound quality that gives each instrument its own sound"
+		},
+		{
+			"word": "tornado",
+			"description": "a tube of violently spinning air that touches the ground"
+		},
+		{
+			"word": "total eclipse",
+			"description": "when  all of the moon or the Sun is blocked from view on Earth"
+		},
+		{
+			"word": "toxic",
+			"description": "poisonous"
+		},
+		{
+			"word": "toxic waste",
+			"description": "material that can cause death or injury to living creatures"
+		},
+		{
+			"word": "traction",
+			"description": "a lot of friction between two objects"
+		},
+		{
+			"word": "trade wind desert",
+			"description": "deserts that form from warm air that can hold a lot of water vapor"
+		},
+		{
+			"word": "trait",
+			"description": "a characteristic that a plant or animal gets from its parents"
+		},
+		{
+			"word": "trans fat",
+			"description": "a bad type of fat that people make"
+		},
+		{
+			"word": "transfer of energy",
+			"description": "to take energy from one object and give it to another"
+		},
+		{
+			"word": "transform",
+			"description": "to dramatically change form"
+		},
+		{
+			"word": "transform boundary",
+			"description": "places where the earth's plates slide, grind, or rub past each other"
+		},
+		{
+			"word": "translucent",
+			"description": "a material that allows some light to pass through"
+		},
+		{
+			"word": "transparent",
+			"description": "an object that allows light to pass right through"
+		},
+		{
+			"word": "transponders",
+			"description": "a device that receives radio signals and sends it back out as different signals"
+		},
+		{
+			"word": "transportation",
+			"description": "the way we get from one place to another"
+		},
+		{
+			"word": "treads",
+			"description": "the grooves on a tire or track that help increase friction"
+		},
+		{
+			"word": "tremor",
+			"description": "the shaking of the Earth caused by earthquakes"
+		},
+		{
+			"word": "trench",
+			"description": "long deep channels with steep sides"
+		},
+		{
+			"word": "triathlon",
+			"description": "a race involving running, cycling, and swimming"
+		},
+		{
+			"word": "tropical",
+			"description": "from the region of the Earth near the equator"
+		},
+		{
+			"word": "tropical rainforests",
+			"description": "a rainforest near the equator with a hot climate"
+		},
+		{
+			"word": "tsunami",
+			"description": "a very powerful wave caused by ocean earthquakes"
+		},
+		{
+			"word": "tubeworm",
+			"description": "a worm that lives on the ocean floor and can grow 4-5 feet long"
+		},
+		{
+			"word": "tundra",
+			"description": "cold areas with warm enough summers to melt some snow"
+		},
+		{
+			"word": "turbid",
+			"description": "clouded or discolored by sediment"
+		},
+		{
+			"word": "turbine",
+			"description": "a device that makes electricity when its blades are moved by wind or water"
+		},
+		{
+			"word": "turbulent",
+			"description": "when gas or liquid is choppy or rough as it moves past an object"
+		},
+		{
+			"word": "ultrasound",
+			"description": "sound waves with frequencies too high for the human ear to hear"
+		},
+		{
+			"word": "umami",
+			"description": "one of the basic types of taste"
+		},
+		{
+			"word": "umbra",
+			"description": "a complete shadow where all sunlight is blocked by the Earth or the moon"
+		},
+		{
+			"word": "unbalanced force",
+			"description": "unequal forces on an object that make it move"
+		},
+		{
+			"word": "understory",
+			"description": "the lower level of the rainforest that has small animals and plants"
+		},
+		{
+			"word": "universe",
+			"description": "everything known to exist"
+		},
+		{
+			"word": "unsaturated fat",
+			"description": "a type of fat found in vegetables and plant products"
+		},
+		{
+			"word": "uranium",
+			"description": "a highly unstable element used to make nuclear energy"
+		},
+		{
+			"word": "urban wildlife",
+			"description": "wild animals that can live in cities or large towns"
+		},
+		{
+			"word": "UV light",
+			"description": "a type of light we can't see but can cause sunburns"
+		},
+		{
+			"word": "vaccine",
+			"description": "a type of medicine given as a shot that is often made from weakened germs"
+		},
+		{
+			"word": "vacuum",
+			"description": "an empty area that has no matter"
+		},
+		{
+			"word": "values",
+			"description": "what we consider good, bad, useful, and so on"
+		},
+		{
+			"word": "valve",
+			"description": "used by brass instruments to change airflow within the instrument"
+		},
+		{
+			"word": "variables",
+			"description": "things you can measure"
+		},
+		{
+			"word": "variations",
+			"description": "different forms of the same thing"
+		},
+		{
+			"word": "vector",
+			"description": "something has both a direction and a magnitude"
+		},
+		{
+			"word": "veins",
+			"description": "blood vessel that carries blood from every part of the body back to the heart"
+		},
+		{
+			"word": "velociraptor",
+			"description": "fighting dinosaurs that would eat almost anything"
+		},
+		{
+			"word": "velocity",
+			"description": "the speed in a given direction"
+		},
+		{
+			"word": "venomous",
+			"description": "the poisonous liquid produced by an animal"
+		},
+		{
+			"word": "vent",
+			"description": "an opening at the top of a volcano where lava, ash, and rock are spewed out"
+		},
+		{
+			"word": "vertebrate",
+			"description": "an animal with a spine"
+		},
+		{
+			"word": "vertical wind",
+			"description": "winds that move up or down"
+		},
+		{
+			"word": "vibration",
+			"description": "a continuous shaking movement"
+		},
+		{
+			"word": "viruses",
+			"description": "tiny nonliving things that can cause disease"
+		},
+		{
+			"word": "viscosity",
+			"description": "how easily a liquid flows"
+		},
+		{
+			"word": "vocal sacs",
+			"description": "the part of a male frog that helps it produce a croaking sound"
+		},
+		{
+			"word": "volatile",
+			"description": "a substance the quickly changes from a solid or liquid into a gas"
+		},
+		{
+			"word": "volcanic ash",
+			"description": "another name for dust that volcanoes spew out"
+		},
+		{
+			"word": "volcanic bomb",
+			"description": "huge rocks that volcanoes sometimes spew out"
+		},
+		{
+			"word": "volcanic cinder",
+			"description": "small rocks that volcanoes sometimes spew out"
+		},
+		{
+			"word": "volcanic crater",
+			"description": "the center hole at the top of a volcano"
+		},
+		{
+			"word": "volcanic eruption",
+			"description": "when a volcano spews out lava, rocks, ash, and gas"
+		},
+		{
+			"word": "volcanic mountain",
+			"description": "mountains that form from hot melted rock that break through the Earth's surface"
+		},
+		{
+			"word": "volcanic plug",
+			"description": "what is formed when magma hardens inside a volcano before it erupts"
+		},
+		{
+			"word": "volcanic plume",
+			"description": "a mix of dust and gas that come from a volcano"
+		},
+		{
+			"word": "volcano",
+			"description": "an opening in the Earth's crust where lava, steam, ashes, and gas are spewed out"
+		},
+		{
+			"word": "volcanologist",
+			"description": "a scientist who studies volcanoes"
+		},
+		{
+			"word": "volume",
+			"description": "the space taken by an object"
+		},
+		{
+			"word": "warm glacier",
+			"description": "glacier with water on the bottom"
+		},
+		{
+			"word": "warm-blooded",
+			"description": "a kind of animal that can keep its body temperature at the same level"
+		},
+		{
+			"word": "warning coloration",
+			"description": "bold or bright markings on an animal that warn its enemies to stay away"
+		},
+		{
+			"word": "water cycle",
+			"description": "movement of water into the air and then back to the ground"
+		},
+		{
+			"word": "water erosion",
+			"description": "to wear down, or eat something away by the force of moving water"
+		},
+		{
+			"word": "water pollution",
+			"description": "when water is contaminated by harmful chemicals or substances."
+		},
+		{
+			"word": "water pressure",
+			"description": "the force that is applied to water"
+		},
+		{
+			"word": "water runoff",
+			"description": "what happens when new water can't soak into the ground"
+		},
+		{
+			"word": "water table",
+			"description": "a layer deep in the ground below which the ground is saturated with water"
+		},
+		{
+			"word": "water vapor",
+			"description": "water in the form of gas"
+		},
+		{
+			"word": "watershed",
+			"description": "an area that drains water into a river or lake, and finally into the ocean"
+		},
+		{
+			"word": "wavelength",
+			"description": "the length of a single wave in a pattern"
+		},
+		{
+			"word": "weather balloons",
+			"description": "a large balloon used by scientists to carry instruments that measure weather"
+		},
+		{
+			"word": "weather patterns",
+			"description": "the same weather repeated over a few days or more"
+		},
+		{
+			"word": "weathering",
+			"description": "the breaking down of rocks, soils, and minerals from natural forces"
+		},
+		{
+			"word": "wetland",
+			"description": "places where the ground is almost always soggy"
+		},
+		{
+			"word": "white dwarf star",
+			"description": "the end of life for a Sun-like star which becomes small and shines white"
+		},
+		{
+			"word": "wind erosion",
+			"description": "to wear something down, or eat away at it by the force of moving air with dust"
+		},
+		{
+			"word": "x-ray",
+			"description": "waves that pass through skin and organs to take pictures of bones"
+		},
+		{
+			"word": "xenolith",
+			"description": "small rocks that are stuck inside a larger rock"
+		},
+		{
+			"word": "yield",
+			"description": "the result or product of a chemical reaction (as in a chemical formula)"
+		},
+		{
+			"word": "zamboni",
+			"description": "a machine that maintains an ice rink"
+		},
+		{
+			"word": "zooplankton",
+			"description": "tiny sea animals that drift with the current"
+		}
+	]
+}
